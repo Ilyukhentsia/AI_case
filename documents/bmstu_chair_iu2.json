@@ -1,0 +1,261 @@
+{
+  "source_url": "https://bmstu.ru/chair/pribory-i-sistemy-orientacii-stabilizacii-i-navigacii",
+  "chair": {
+    "code": "ИУ2",
+    "name": "ИУ2 Приборы и системы ориентации, стабилизации и навигации",
+    "faculty_code": "ИУ",
+    "slug": "pribory-i-sistemy-orientacii-stabilizacii-i-navigacii"
+  },
+  "nodes": [
+    {
+      "id": "chair:ИУ2",
+      "label": "Chair",
+      "code": "ИУ2",
+      "name": "ИУ2 Приборы и системы ориентации, стабилизации и навигации",
+      "subtitle": "Разработка инерциальных датчиков, гироскопических приборов, автопилотов и инерциальных навигационных систем",
+      "slug": "pribory-i-sistemy-orientacii-stabilizacii-i-navigacii",
+      "url": "https://bmstu.ru/chair/pribory-i-sistemy-orientacii-stabilizacii-i-navigacii",
+      "image": "https://api.www.bmstu.ru/upload/chair/2/images/64c26e03e3d23/contain_473x474.png",
+      "about": "Одна из&nbsp;старейших кафедр в&nbsp;России по&nbsp;выпуску разработчиков гироскопических приборов, автопилотов и&nbsp;инерциальных навигационных систем. Специализации кафедры тесно связаны с&nbsp;вопросами проектирования гироскопических стабилизаторов различного применения, разработкой систем управления и&nbsp;автоматического пилотирования летательных аппаратов, технологиями производства современных инерциальных приборов и&nbsp;MEMS-датчиков. В&nbsp;рамках обучения проводится подготовка инженеров по&nbsp;специальности &laquo;Системы автоматического управления летательными аппаратами&raquo; по&nbsp;4&nbsp;специализациям: гироскопические приборы и&nbsp;стабилизаторы, автопилоты и&nbsp;автоматы стабилизации, инерциальные навигационные системы, технологии производства гироскопических приборов. А&nbsp;также подготовка магистров по&nbsp;направлению &laquo;Управление движением и&nbsp;навигация&raquo; и&nbsp;аспирантов по&nbsp;направлению &laquo;Фотоника, приборостроение, оптические и&nbsp;биотехнические системы и&nbsp;технологии&raquo;. Студенты и&nbsp;аспиранты кафедры занимаются изучением теории и&nbsp;практики навигационных систем и&nbsp;высокоточных навигационных приборов, вопросами создания гироскопических стабилизаторов различного применения и&nbsp;электронной аппаратуры, технологии производства и&nbsp;методов испытаний приборов точной механики. Обучающиеся получают опыт разработки собственных алгоритмов навигации, программного обеспечения навигационных систем, принципиальных и&nbsp;конструктивных схем навигационных приборов и&nbsp;систем различного назначения. Выпускники кафедры&nbsp;&mdash; высококвалифицированные инженеры с&nbsp;обширными знаниями и&nbsp;навыками. Их&nbsp;разработки используются на&nbsp;ведущих приборных предприятиях в&nbsp;России и&nbsp;за&nbsp;рубежом.",
+      "practice": "Во&nbsp;время обучения студенты работают над прикладными задачами вместе со&nbsp;специалистами передовых приборостроительных предприятий, таких как АО&nbsp;&laquo;ЦНИИАГ&raquo;, АО&nbsp;&laquo;РПКБ&raquo;, АО&nbsp;&laquo;ИТТ&raquo;, АО&nbsp;МНПК &laquo;Авионика&raquo;, ФГУП НПО &laquo;Техномаш&raquo; и&nbsp;др. Выпускники обладают фундаментальными знаниями и&nbsp;практическими навыками по&nbsp;разработке и&nbsp;изготовлению высокоточных гироскопов, акселерометров, алгоритмов инерциальных навигационных систем, а&nbsp;также компьютеризированных систем ориентации и&nbsp;стабилизации подвижных объектов. Глубокие технические знания позволяют выпускникам кафедры строить успешную карьеру на&nbsp;отечественных и&nbsp;зарубежных предприятиях различных отраслей.",
+      "website_link": "",
+      "website_link_text": ""
+    },
+    {
+      "id": "faculty:ИУ",
+      "label": "Faculty",
+      "code": "ИУ",
+      "slug": "iu"
+    },
+    {
+      "id": "chair:ИУ2:phone",
+      "label": "Contact",
+      "type": "phone",
+      "value": "8 (499) 263-64-23"
+    },
+    {
+      "id": "chair:ИУ2:email",
+      "label": "Contact",
+      "type": "email",
+      "value": "iu2@bmstu.ru"
+    },
+    {
+      "id": "chair:ИУ2:address",
+      "label": "Contact",
+      "type": "address",
+      "value": "г.&nbsp;Москва, ул.&nbsp;2-я Бауманская, д.&nbsp;5, стр.&nbsp;1, 10&nbsp;этаж, ауд. 1009"
+    },
+    {
+      "id": "chair:ИУ2:work_time",
+      "label": "Contact",
+      "type": "work_time",
+      "value": "Пн-Пт: 10:00-17:00"
+    },
+    {
+      "id": "chair:ИУ2:social:0",
+      "label": "Social",
+      "title": "Сайт",
+      "url": "http://iu2.bmstu.ru/"
+    },
+    {
+      "id": "member:konovalov-sergej-feodosevic",
+      "label": "Member",
+      "name": "Коновалов Сергей Феодосьевич",
+      "positions": [],
+      "image": "https://api.www.bmstu.ru/upload/member/1600/images/62382cd677c59/contain_180x180.jpg",
+      "slug": "konovalov-sergej-feodosevic"
+    },
+    {
+      "id": "member:kulesov-aleksandr-viktorovic",
+      "label": "Member",
+      "name": "Кулешов Александр Викторович",
+      "positions": [],
+      "image": "https://api.www.bmstu.ru/upload/member/1808/images/62382ca36cc98/contain_180x180.jpg",
+      "slug": "kulesov-aleksandr-viktorovic"
+    },
+    {
+      "id": "member:fasevskij-nikolaj-nikolaevic",
+      "label": "Member",
+      "name": "Фащевский Николай Николаевич",
+      "positions": [],
+      "image": "https://api.www.bmstu.ru/upload/member/3473/images/62382ce7c2452/contain_180x180.png",
+      "slug": "fasevskij-nikolaj-nikolaevic"
+    },
+    {
+      "id": "member:sapovalov-anatolij-borisovic",
+      "label": "Member",
+      "name": "Шаповалов Анатолий Борисович",
+      "positions": [
+        "Заведующий кафедрой"
+      ],
+      "image": "https://api.www.bmstu.ru/upload/member/3735/images/61164e3a6e930/contain_180x180.png",
+      "slug": "sapovalov-anatolij-borisovic"
+    },
+    {
+      "id": "partner:ао-итт",
+      "label": "Partner",
+      "name": "АО \"ИТТ\"",
+      "image": "https://api.www.bmstu.ru/upload/partner/25/images/617a64139b3d0/contain_246x166.jpg"
+    },
+    {
+      "id": "partner:ао-мнпк-авионика",
+      "label": "Partner",
+      "name": "АО МНПК \"Авионика\"",
+      "image": "https://api.www.bmstu.ru/upload/partner/26/images/68a58ae9e3505/contain_246x166.png"
+    },
+    {
+      "id": "partner:рпкб",
+      "label": "Partner",
+      "name": "РПКБ",
+      "image": "https://api.www.bmstu.ru/upload/partner/28/images/617a64fd8dda9/contain_246x166.png"
+    },
+    {
+      "id": "partner:нпо-техномаш",
+      "label": "Partner",
+      "name": "НПО Техномаш",
+      "image": "https://api.www.bmstu.ru/upload/partner/29/images/617a65235a68f/contain_246x166.png"
+    },
+    {
+      "id": "major:24.05.06",
+      "label": "Major",
+      "code": "24.05.06",
+      "name": "Системы управления летательными аппаратами",
+      "level": "specialist",
+      "text": "Направление подготовки предназначено для обучения инженеров &ndash; специалистов по проектированию систем управления и их программно-математического и алгоритмического обеспечения для авиакосмической отрасли. Выпускники направления занимаются конструированием, расчетами и синтезом инерциальных приборов, систем навигации и стабилизации движения подвижных объектов.&nbsp;",
+      "url": "/bachelor/majors/sistemy-upravlenia-letatelnymi-apparatami-240506"
+    },
+    {
+      "id": "major:1.2.2",
+      "label": "Major",
+      "code": "1.2.2",
+      "name": "Математическое моделирование, численные методы и комплексы программ",
+      "level": "postgraduate",
+      "text": "",
+      "url": "/postgraduate/majors/mashinostroenie"
+    },
+    {
+      "id": "major:2.2.5",
+      "label": "Major",
+      "code": "2.2.5",
+      "name": "Приборы навигации",
+      "level": "postgraduate",
+      "text": "",
+      "url": "/postgraduate/majors/tekhnologii-materialov"
+    },
+    {
+      "id": "chair:ИУ2:media:0",
+      "label": "Image",
+      "url": "https://api.www.bmstu.ru/upload/chair/2/images/617a5fcdbeb1b/contain_840x519.jpg"
+    },
+    {
+      "id": "chair:ИУ2:media:1",
+      "label": "Image",
+      "url": "https://api.www.bmstu.ru/upload/chair/2/images/617a5fcdbfec2/contain_840x519.jpg"
+    }
+  ],
+  "edges": [
+    {
+      "source": "chair:ИУ2",
+      "target": "faculty:ИУ",
+      "type": "BELONGS_TO_FACULTY"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "chair:ИУ2:phone",
+      "type": "HAS_CONTACT"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "chair:ИУ2:email",
+      "type": "HAS_CONTACT"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "chair:ИУ2:address",
+      "type": "HAS_CONTACT"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "chair:ИУ2:work_time",
+      "type": "HAS_CONTACT"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "chair:ИУ2:social:0",
+      "type": "HAS_SOCIAL"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "member:konovalov-sergej-feodosevic",
+      "type": "HAS_MEMBER"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "member:kulesov-aleksandr-viktorovic",
+      "type": "HAS_MEMBER"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "member:fasevskij-nikolaj-nikolaevic",
+      "type": "HAS_MEMBER"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "member:sapovalov-anatolij-borisovic",
+      "type": "HAS_MEMBER"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "partner:ао-итт",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "partner:ао-мнпк-авионика",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "partner:рпкб",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "partner:нпо-техномаш",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "major:24.05.06",
+      "type": "OFFERS_MAJOR"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "major:1.2.2",
+      "type": "OFFERS_MAJOR"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "major:2.2.5",
+      "type": "OFFERS_MAJOR"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "chair:ИУ2:media:0",
+      "type": "HAS_IMAGE"
+    },
+    {
+      "source": "chair:ИУ2",
+      "target": "chair:ИУ2:media:1",
+      "type": "HAS_IMAGE"
+    }
+  ],
+  "stats": {
+    "nodes": 20,
+    "edges": 19,
+    "majors": 3,
+    "members": 4,
+    "partners": 4,
+    "socials": 1
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "source_url": "https://bmstu.ru/chair/informacionnye-sistemy-i-telekommunikacii",
+  "chair": {
+    "code": "ИУ3",
+    "name": "ИУ3 Информационные системы и телекоммуникации",
+    "faculty_code": "ИУ",
+    "slug": "informacionnye-sistemy-i-telekommunikacii"
+  },
+  "nodes": [
+    {
+      "id": "chair:ИУ3",
+      "label": "Chair",
+      "code": "ИУ3",
+      "name": "ИУ3 Информационные системы и телекоммуникации",
+      "subtitle": "Область профессиональной деятельности бакалавров включает: исследование, разработку, внедрение и сопровождение информационных технологий и систем. Магистры обучаются по программе «Технологии разработки цифровых платформ».",
+      "slug": "informacionnye-sistemy-i-telekommunikacii",
+      "url": "https://bmstu.ru/chair/informacionnye-sistemy-i-telekommunikacii",
+      "image": "https://api.www.bmstu.ru/upload/chair/3/images/64c26e0f8cc82/contain_473x474.png",
+      "about": "Кафедра была основана в 1964 году. Направления научных исследований, активно развивающиеся на кафедре: искусственный интеллект, микропроцессорная техника, телекоммуникационные системы. На кафедре обучение проводят ведущие специалисты IT области, проводящие занятия на профессиональном оборудовании, что позволяет выпускникам кафедры получить фундаментальную подготовку по специальности и освоить новейшие цифровые технологии. Учебный план включает в себя дисциплины, позволяющие магистрам освоить 55 новейших технологий программирования и получить необходимые компетенции для широкого применения в профессиональной деятельности: разработка, сопровождение и развертывание кода; инжиниринг компьютерных сетей и облачных сервисов; юзабилити тестирование и оценка опыта пользователя; глубокое машинное обучение и компьютерное зрение; дизайн и реализация инновационных цифровых проектов. Выдающиеся выпускники кафедры: А.И. Журавлев (генеральный директор АО &laquo;Штрих-М&raquo;); А.Е. Ширшаков (первый заместитель генерального директора - генеральный конструктор НПО им. С.А. Лавочкина); С.С. Баскаков (генеральный директор ООО &laquo;МЕШЛОДЖИК&raquo;); В.И. Оганов (генеральный директор ООО &laquo;Высокотехнологичные системы&raquo;); В.В. Девятков (заведующий лабораторией искусственного интеллекта ИПУ РАН); Г.Н. Толстоусов (главный конструктор систем управления авиационной техники, Лауреат Государственной премии); А.С. Елисеев (летчик-космонавт, дважды Герой СССР, ректор МВТУ им. Н.Э. Баумана).",
+      "practice": "Студенты проходят практику в ведущих IT-компаниях, оборонных, финансовых, образовательных, социальных организациях страны. Выпускники кафедры востребованы на различных государственных и частных предприятиях, а также в компаниях по разработке программного обеспечения, в инновационных IT-стартапах, в сфере создания интеллектуальных информационных систем.",
+      "website_link": "https://www.iu3.bmstu.ru/",
+      "website_link_text": "Сайт кафедры"
+    },
+    {
+      "id": "faculty:ИУ",
+      "label": "Faculty",
+      "code": "ИУ",
+      "slug": "iu"
+    },
+    {
+      "id": "chair:ИУ3:phone",
+      "label": "Contact",
+      "type": "phone",
+      "value": "8 (499) 263-62-86"
+    },
+    {
+      "id": "chair:ИУ3:email",
+      "label": "Contact",
+      "type": "email",
+      "value": "iu3@bmstu.ru"
+    },
+    {
+      "id": "chair:ИУ3:address",
+      "label": "Contact",
+      "type": "address",
+      "value": "105005, г. Москва, ул. 2-я Бауманская, д. 5, стр. 5, ауд. 522ю"
+    },
+    {
+      "id": "chair:ИУ3:work_time",
+      "label": "Contact",
+      "type": "work_time",
+      "value": "Пн-Пт: 8:30 - 20:45"
+    },
+    {
+      "id": "chair:ИУ3:social:0",
+      "label": "Social",
+      "title": "ВКонтакте",
+      "url": "https://vk.com/iu3bmstu"
+    },
+    {
+      "id": "member:alfimcev-aleksandr-nikolaevic",
+      "label": "Member",
+      "name": "Алфимцев Александр Николаевич",
+      "positions": [
+        "Заведующий кафедрой"
+      ],
+      "image": "https://api.www.bmstu.ru/upload/member/84/images/6221dc8a72010/contain_180x180.jpg",
+      "slug": "alfimcev-aleksandr-nikolaevic"
+    },
+    {
+      "id": "partner:яндекс",
+      "label": "Partner",
+      "name": "Яндекс",
+      "image": "https://api.www.bmstu.ru/upload/partner/6/images/60d9f1388df52/contain_246x166.jpg"
+    },
+    {
+      "id": "partner:сбер",
+      "label": "Partner",
+      "name": "СБЕР",
+      "image": "https://api.www.bmstu.ru/upload/partner/12/images/6552056e7d0da/contain_246x166.png"
+    },
+    {
+      "id": "partner:ростелеком",
+      "label": "Partner",
+      "name": "Ростелеком",
+      "image": "https://api.www.bmstu.ru/upload/partner/46/images/618116499628f/contain_246x166.png"
+    },
+    {
+      "id": "partner:нпо-им-с-а-лавочкина",
+      "label": "Partner",
+      "name": "НПО им. С.А. Лавочкина",
+      "image": "https://api.www.bmstu.ru/upload/partner/48/images/666a9823c260d/contain_246x166.png"
+    },
+    {
+      "id": "partner:vk",
+      "label": "Partner",
+      "name": "VK",
+      "image": "https://api.www.bmstu.ru/upload/partner/127/images/6543f93885f84/contain_246x166.png"
+    },
+    {
+      "id": "major:09.03.02",
+      "label": "Major",
+      "code": "09.03.02",
+      "name": "Информационные системы и технологии",
+      "level": "bachelor",
+      "text": "Направление сочетает в себе подготовку в области проектирования, модернизации и обслуживания корпоративных информационных систем предприятия, их программное обеспечение. Выпускники направления смогут заниматься разработкой информационных технологий для различных нужд производственной и коммерческой деятельности. &nbsp;",
+      "url": "/bachelor/majors/informacionnye-sistemy-i-tehnologii-090302"
+    },
+    {
+      "id": "major:09.04.02",
+      "label": "Major",
+      "code": "09.04.02",
+      "name": "Информационные системы и технологии",
+      "level": "master",
+      "text": "На данном направлении магистры углубляют свои знания в области программирования и инженерии. Помимо этого студенты будут изучать самые интересные и прикладные отрасли индустрии, в которых нужен структурный и инженерный склад ума. Здесь студенты освоят новейшие технологии программирования и получат необходимые компетенции для широкого применения в профессиональной деятельности.",
+      "url": "/magistracy/majors/informacionnye-sistemy-i-tehnologii-090402"
+    },
+    {
+      "id": "major:2.3.5",
+      "label": "Major",
+      "code": "2.3.5",
+      "name": "Математическое и программное обеспечение вычислительных систем, комплексов и компьютерных сетей",
+      "level": "postgraduate",
+      "text": "",
+      "url": "/postgraduate/majors/fotonika-priborostroenie-opticheskie-i-biotekhnicheskie-sistemy-i-tekhnologii"
+    },
+    {
+      "id": "chair:ИУ3:video",
+      "label": "Video",
+      "url": "https://youtu.be/JR3WdYymk9Y",
+      "duration": "7 минут",
+      "poster": "https://api.www.bmstu.ru/upload/chair/3/images/64b936665f4e4/contain_840x519.jpg",
+      "title": "Фильм о&nbsp;факультете «Информатика и&nbsp;системы управления»"
+    }
+  ],
+  "edges": [
+    {
+      "source": "chair:ИУ3",
+      "target": "faculty:ИУ",
+      "type": "BELONGS_TO_FACULTY"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "chair:ИУ3:phone",
+      "type": "HAS_CONTACT"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "chair:ИУ3:email",
+      "type": "HAS_CONTACT"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "chair:ИУ3:address",
+      "type": "HAS_CONTACT"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "chair:ИУ3:work_time",
+      "type": "HAS_CONTACT"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "chair:ИУ3:social:0",
+      "type": "HAS_SOCIAL"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "member:alfimcev-aleksandr-nikolaevic",
+      "type": "HAS_MEMBER"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "partner:яндекс",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "partner:сбер",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "partner:ростелеком",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "partner:нпо-им-с-а-лавочкина",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "partner:vk",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "major:09.03.02",
+      "type": "OFFERS_MAJOR"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "major:09.04.02",
+      "type": "OFFERS_MAJOR"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "major:2.3.5",
+      "type": "OFFERS_MAJOR"
+    },
+    {
+      "source": "chair:ИУ3",
+      "target": "chair:ИУ3:video",
+      "type": "HAS_VIDEO"
+    }
+  ],
+  "stats": {
+    "nodes": 17,
+    "edges": 16,
+    "majors": 3,
+    "members": 1,
+    "partners": 5,
+    "socials": 1
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "myprepod": {
+    "source_url": "https://myprepod.ru/universiteti/bmstu/prepodavateli",
+    "filter": "iu",
+    "university": {
+      "name": "Московский государственный технический университет им. Н.Э. Баумана",
+      "stats": [
+        "3 205 преподавателей",
+        "1 102 оценки",
+        "40 комментариев"
+      ],
+      "total_tutors": 3205,
+      "found_tutors": 3205
+    },
+    "departments": [],
+    "tutors": [],
+    "pagination": {
+      "next": "https://myprepod.ru/universiteti/bmstu/prepodavateli?page=2",
+      "last_page": 268,
+      "range": "1–12 из 3205"
+    },
+    "stats": {
+      "departments_count": 0,
+      "tutors_on_page": 0
+    }
+  },
+  "studizba": {
+    "source_url": "https://studizba.com/hs/mgtu-im-baumana/teachers/",
+    "filter": "iu",
+    "university": {
+      "name": "Преподаватели МГТУ им. Н.Э.Баумана",
+      "stats": {
+        "Преподавателей": "4 636",
+        "Кафедр и подразделений": "91",
+        "Отзывов": "8 449",
+        "Рейтинг преподавателей": "3,84",
+        "Умение объяснять": "3,79",
+        "Отношение к студентам": "3,84",
+        "Средние оценки": "3,89"
+      }
+    },
+    "super_teachers": {
+      "new": {
+        "metric": "Новые",
+        "items": [
+          {
+            "surname": "Зеленецкий",
+            "name": "Алексей Сергеевич",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-8-informacionnaya-bezopasnost/39154-zeleneckiy-aleksey-sergeevich.html",
+            "badge_class": "",
+            "badge_title": "Рейтинг преподавателя",
+            "value_raw": "5,00",
+            "value": 5.0,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2026-09/151-173-39154-zeleneckiy-aleksey-sergeevich-768-1789653949.png&w=300&h=300&t=2"
+          },
+          {
+            "surname": "Гудкова",
+            "name": "Мария Александровна",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-8-informacionnaya-bezopasnost/39152-gudkova-mariya-aleksandrovna.html",
+            "badge_class": "",
+            "badge_title": "Рейтинг преподавателя",
+            "value_raw": "5,00",
+            "value": 5.0,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2026-09/151-173-39152-gudkova-mariya-aleksandrovna-770-1789653206.png&w=300&h=300&t=2"
+          },
+          {
+            "surname": "Поляков",
+            "name": "Михаил Вадимович",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-8-informacionnaya-bezopasnost/39150-polyakov-mihail-vadimovich.html",
+            "badge_class": "",
+            "badge_title": "Рейтинг преподавателя",
+            "value_raw": "4,67",
+            "value": 4.67,
+            "image": ""
+          }
+        ]
+      },
+      "pop": {
+        "metric": "Популярные",
+        "items": [
+          {
+            "surname": "Куров",
+            "name": "Андрей Владимирович",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-7-programmnoe-obespechenie-evm-i/206-kurov-andrey-vladimirovich.html",
+            "badge_class": "",
+            "badge_title": "Рейтинг преподавателя",
+            "value_raw": "1,64",
+            "value": 1.64,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2017-03/151-4-206-1963618873-1490932784.jpg&w=300&h=300&t=2"
+          },
+          {
+            "surname": "Левиев",
+            "name": "Дмитрий Олегович",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-8-informacionnaya-bezopasnost/4361-leviev-dmitriy-olegovich.html",
+            "badge_class": "",
+            "badge_title": "Рейтинг преподавателя",
+            "value_raw": "1,28",
+            "value": 1.28,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2025-01/151-173-4361-leviev-dmitriy-olegovich-167-1738101371.png&w=300&h=300&t=2"
+          }
+        ]
+      },
+      "anti_file_array_dossier_quality_expl": {
+        "metric": "Худшие по умению объяснять",
+        "items": [
+          {
+            "surname": "Русакова",
+            "name": "Зинаида Николаевна",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-7-programmnoe-obespechenie-evm-i/221-rusakova-zinaida-nikolaevna.html",
+            "badge_class": "e",
+            "badge_title": "Качество объяснений преподавателя",
+            "value_raw": "1,38",
+            "value": 1.38,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2024-02/151-4-221-rusakova-zinaida-nikolaevna-153-1708277137.jpg&w=300&h=300&t=2"
+          },
+          {
+            "surname": "Куров",
+            "name": "Андрей Владимирович",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-7-programmnoe-obespechenie-evm-i/206-kurov-andrey-vladimirovich.html",
+            "badge_class": "e",
+            "badge_title": "Качество объяснений преподавателя",
+            "value_raw": "1,47",
+            "value": 1.47,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2017-03/151-4-206-1963618873-1490932784.jpg&w=300&h=300&t=2"
+          },
+          {
+            "surname": "Левиев",
+            "name": "Дмитрий Олегович",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-8-informacionnaya-bezopasnost/4361-leviev-dmitriy-olegovich.html",
+            "badge_class": "e",
+            "badge_title": "Качество объяснений преподавателя",
+            "value_raw": "1,40",
+            "value": 1.4,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2025-01/151-173-4361-leviev-dmitriy-olegovich-167-1738101371.png&w=300&h=300&t=2"
+          }
+        ]
+      },
+      "anti_file_array_dossier_evil_good": {
+        "metric": "Худшие по отношению к студентам",
+        "items": [
+          {
+            "surname": "Куров",
+            "name": "Андрей Владимирович",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-7-programmnoe-obespechenie-evm-i/206-kurov-andrey-vladimirovich.html",
+            "badge_class": "v",
+            "badge_title": "Отношение к студентам",
+            "value_raw": "1,47",
+            "value": 1.47,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2017-03/151-4-206-1963618873-1490932784.jpg&w=300&h=300&t=2"
+          },
+          {
+            "surname": "Русакова",
+            "name": "Зинаида Николаевна",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-7-programmnoe-obespechenie-evm-i/221-rusakova-zinaida-nikolaevna.html",
+            "badge_class": "v",
+            "badge_title": "Отношение к студентам",
+            "value_raw": "1,88",
+            "value": 1.88,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2024-02/151-4-221-rusakova-zinaida-nikolaevna-153-1708277137.jpg&w=300&h=300&t=2"
+          },
+          {
+            "surname": "Толпинская",
+            "name": "Наталья Борисовна",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-7-programmnoe-obespechenie-evm-i/231-tolpinskaya-natalya-borisovna.html",
+            "badge_class": "v",
+            "badge_title": "Отношение к студентам",
+            "value_raw": "1,73",
+            "value": 1.73,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2024-09/151-4-231-tolpinskaya-natalya-borisovna-275-1725913273.jpg&w=300&h=300&t=2"
+          },
+          {
+            "surname": "Левиев",
+            "name": "Дмитрий Олегович",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-8-informacionnaya-bezopasnost/4361-leviev-dmitriy-olegovich.html",
+            "badge_class": "v",
+            "badge_title": "Отношение к студентам",
+            "value_raw": "1,21",
+            "value": 1.21,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2025-01/151-173-4361-leviev-dmitriy-olegovich-167-1738101371.png&w=300&h=300&t=2"
+          }
+        ]
+      },
+      "anti_file_array_dossier_valuation": {
+        "metric": "Худшие по средним оценкам",
+        "items": [
+          {
+            "surname": "Русакова",
+            "name": "Зинаида Николаевна",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-7-programmnoe-obespechenie-evm-i/221-rusakova-zinaida-nikolaevna.html",
+            "badge_class": "r",
+            "badge_title": "Средние оценки",
+            "value_raw": "2,23",
+            "value": 2.23,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2024-02/151-4-221-rusakova-zinaida-nikolaevna-153-1708277137.jpg&w=300&h=300&t=2"
+          },
+          {
+            "surname": "Куров",
+            "name": "Андрей Владимирович",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-7-programmnoe-obespechenie-evm-i/206-kurov-andrey-vladimirovich.html",
+            "badge_class": "r",
+            "badge_title": "Средние оценки",
+            "value_raw": "2,00",
+            "value": 2.0,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2017-03/151-4-206-1963618873-1490932784.jpg&w=300&h=300&t=2"
+          },
+          {
+            "surname": "Левиев",
+            "name": "Дмитрий Олегович",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-8-informacionnaya-bezopasnost/4361-leviev-dmitriy-olegovich.html",
+            "badge_class": "r",
+            "badge_title": "Средние оценки",
+            "value_raw": "1,24",
+            "value": 1.24,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2025-01/151-173-4361-leviev-dmitriy-olegovich-167-1738101371.png&w=300&h=300&t=2"
+          }
+        ]
+      },
+      "antisuper_all": {
+        "metric": "Худшие по общему рейтингу",
+        "items": [
+          {
+            "surname": "Русакова",
+            "name": "Зинаида Николаевна",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-7-programmnoe-obespechenie-evm-i/221-rusakova-zinaida-nikolaevna.html",
+            "badge_class": "",
+            "badge_title": "Рейтинг преподавателя",
+            "value_raw": "1,82",
+            "value": 1.82,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2024-02/151-4-221-rusakova-zinaida-nikolaevna-153-1708277137.jpg&w=300&h=300&t=2"
+          },
+          {
+            "surname": "Куров",
+            "name": "Андрей Владимирович",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-7-programmnoe-obespechenie-evm-i/206-kurov-andrey-vladimirovich.html",
+            "badge_class": "",
+            "badge_title": "Рейтинг преподавателя",
+            "value_raw": "1,64",
+            "value": 1.64,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2017-03/151-4-206-1963618873-1490932784.jpg&w=300&h=300&t=2"
+          },
+          {
+            "surname": "Левиев",
+            "name": "Дмитрий Олегович",
+            "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-8-informacionnaya-bezopasnost/4361-leviev-dmitriy-olegovich.html",
+            "badge_class": "",
+            "badge_title": "Рейтинг преподавателя",
+            "value_raw": "1,28",
+            "value": 1.28,
+            "image": "https://s.studizba.com/z.php?f=/uploads/dossier/2025-01/151-173-4361-leviev-dmitriy-olegovich-167-1738101371.png&w=300&h=300&t=2"
+          }
+        ]
+      }
+    },
+    "departments": [
+      {
+        "name": "Кафедра ИУ-1 (Системы автоматического управления)",
+        "url": "https://studizba.com/iu-1-sistemy-avtomaticheskogo-upravleniya/",
+        "rating": 4.13,
+        "teachers_count": 143,
+        "reviews_count": 51,
+        "quality_expl": 0.40391,
+        "relation": 0.42453,
+        "avg_marks": 0.41162,
+        "popularity": 653
+      },
+      {
+        "name": "Кафедра ИУ-2 (Приборы и системы ориентации, стабилизации и навигации)",
+        "url": "https://studizba.com/iu-2-pribory-i-sistemy-orientacii-stabilizacii-i/",
+        "rating": 4.1,
+        "teachers_count": 56,
+        "reviews_count": 35,
+        "quality_expl": 0.40741,
+        "relation": 0.41194,
+        "avg_marks": 0.41191,
+        "popularity": 256
+      },
+      {
+        "name": "Кафедра ИУ-3 (Информационные системы и телекоммуникации)",
+        "url": "https://studizba.com/iu-3-informacionnye-sistemy-i-telekommunikacii/",
+        "rating": 4.08,
+        "teachers_count": 51,
+        "reviews_count": 60,
+        "quality_expl": 0.40075,
+        "relation": 0.41805,
+        "avg_marks": 0.40599,
+        "popularity": 422
+      },
+      {
+        "name": "Кафедра ИУ-4 (Конструирование и производство электронной аппаратуры)",
+        "url": "https://studizba.com/iu-4-konstruirovanie-i-proizvodstvo-elektronnoy/",
+        "rating": 3.41,
+        "teachers_count": 34,
+        "reviews_count": 90,
+        "quality_expl": 0.33708,
+        "relation": 0.34412,
+        "avg_marks": 0.3429,
+        "popularity": 496
+      },
+      {
+        "name": "Кафедра ИУ-5 (Системы обработки информации и управления)",
+        "url": "https://studizba.com/iu-5-sistemy-obrabotki-informacii-i-upravleniya/",
+        "rating": 3.81,
+        "teachers_count": 83,
+        "reviews_count": 128,
+        "quality_expl": 0.36475,
+        "relation": 0.39719,
+        "avg_marks": 0.38168,
+        "popularity": 954
+      },
+      {
+        "name": "Кафедра ИУ-6 (Компьютерные системы и сети)",
+        "url": "https://studizba.com/iu-6-kompyuternye-sistemy-i-seti/",
+        "rating": 4.08,
+        "teachers_count": 50,
+        "reviews_count": 50,
+        "quality_expl": 0.39173,
+        "relation": 0.42068,
+        "avg_marks": 0.41289,
+        "popularity": 430
+      },
+      {
+        "name": "Кафедра ИУ-7 (Программное обеспечение ЭВМ и информационные технологии)",
+        "url": "https://studizba.com/iu-7-programmnoe-obespechenie-evm-i/",
+        "rating": 3.33,
+        "teachers_count": 95,
+        "reviews_count": 439,
+        "quality_expl": 0.32102,
+        "relation": 0.34483,
+        "avg_marks": 0.33338,
+        "popularity": 2373
+      },
+      {
+        "name": "Кафедра ИУ-8 (Информационная безопасность)",
+        "url": "https://studizba.com/iu-8-informacionnaya-bezopasnost/",
+        "rating": 3.82,
+        "teachers_count": 57,
+        "reviews_count": 38,
+        "quality_expl": 0.36898,
+        "relation": 0.39398,
+        "avg_marks": 0.38427,
+        "popularity": 667
+      },
+      {
+        "name": "Кафедра ИУ-9 (Теоретическая информатика и компьютерные технологии)",
+        "url": "https://studizba.com/iu-9-teoreticheskaya-informatika-i-kompyuternye/",
+        "rating": 5.0,
+        "teachers_count": 1,
+        "reviews_count": 2,
+        "quality_expl": 0.5,
+        "relation": 0.5,
+        "avg_marks": 0.5,
+        "popularity": 41
+      }
+    ],
+    "latest_reviews": [
+      {
+        "text": "Если он будет у вас вести РИП - готовьтесь к жести! Антон Игоревич будет вас крутить в бараний рог!Но лишь пройдя через огонь, воду и лабораторные работы Антона Игоревича, сдав ему экзамен и начав работать вы поймёте, что всё было не зря, и вас хорошенько подготовили к реальной жизни без самодурства (привет электротехнике) :)",
+        "url": "https://studizba.com/hs/mgtu-im-baumana/teachers/iu-5-sistemy-obrabotki-informacii-i-upravleniya/32195-kanev-anton-igorevich.html",
+        "author": "creatorEli8",
+        "teacher": "Канев"
+      }
+    ],
+    "pagination": {},
+    "stats": {
+      "departments_count": 9,
+      "super_teachers_blocks": 6,
+      "super_teachers_total": 18,
+      "latest_reviews_count": 1
+    }
+  }
+}

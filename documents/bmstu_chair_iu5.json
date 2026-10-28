@@ -1,0 +1,282 @@
+{
+  "source_url": "https://mirror.bmstu.ru/chair/sistemy-obrabotki-informacii-i-upravlenia",
+  "chair": {
+    "code": "ИУ5",
+    "name": "ИУ5 Системы обработки информации и&nbsp;управления",
+    "faculty_code": "ИУ",
+    "slug": "sistemy-obrabotki-informacii-i-upravlenia"
+  },
+  "nodes": [
+    {
+      "id": "chair:ИУ5",
+      "label": "Chair",
+      "code": "ИУ5",
+      "name": "ИУ5 Системы обработки информации и&nbsp;управления",
+      "subtitle": "Разработка систем управления для экономических и&nbsp;организационных структур. Использование в&nbsp;системах управления методов искусственного интеллекта и&nbsp;платформ обработки больших данных.",
+      "slug": "sistemy-obrabotki-informacii-i-upravlenia",
+      "url": "https://mirror.bmstu.ru/chair/sistemy-obrabotki-informacii-i-upravlenia",
+      "image": "https://api.mirror.bmstu.ru/upload/chair/5/images/64c26e2ce4cb5/contain_473x474.png",
+      "about": "Кафедра &laquo;Системы обработки информации и&nbsp;управления&raquo; обучает студентов различным аспектами разработки систем управления для экономических и&nbsp;организационных структур разной отраслевой принадлежности и&nbsp;разной величины: от&nbsp;систем для малых и&nbsp;средних предприятий до&nbsp;отраслевых и&nbsp;общегосударственных систем управления. В&nbsp;проблематику кафедры входит архитектура систем, прикладное программное обеспечение, реализующее конкретные бизнес-процессы, а&nbsp;также платформенное программное и&nbsp;техническое обеспечение, включающее базы данных, хранилища данных, озёра данных, графы знаний, системы блокчейн, сервера приложений, средства интеграции, платформы интернета вещей, системы виртуальной и&nbsp;дополненной реальности, а&nbsp;также другие компоненты платформ. Особое внимание на&nbsp;кафедре уделяется средствам искусственного интеллекта, используемым при разработке систем управления. Активно применяются нейросети, средства логического искусственного интеллекта, сложные графовые и&nbsp;имитационные модели, средства взаимодействия на&nbsp;естественных языках, средства машинного обучения для обработки сигналов, визуальных изображений, речи и&nbsp;видео. В&nbsp;качестве перспективы систем управления кафедра предлагает гибридные интеллектуальные информационные системы, включающие сознание, подсознание, модули этики, целеполагания, адаптации к&nbsp;окружающей среде и&nbsp;другие блоки общего искусственного интеллекта.",
+      "practice": "Карьерный путь выпускника, выбравшего область разработки, внедрения и сопровождения корпоративных систем управления обычно начинается с позиции специалиста технической поддержки пользователей, администратора приложений, консультанта по одному из модулей корпоративной системы, Data-инженера или Machine Learning-инженера. После накопления профессионального опыта выпускники продолжают свою карьеру как руководители команд и групп по этим направлениям, архитекторы приложений. Следующей ступенью являются позиции менеджера проектов или продуктов, специалиста по взаимодействию с клиентами и подрядчиками, руководителя группы ИТ-архитектуры предприятия. Высший эшелон ‒ это ИТ-директора предприятий, руководители консалтингового бизнеса или бизнеса по разработке приложений. Выпускники кафедры &laquo;Системы обработки информации и управления&raquo; работают в крупнейших ИТ-компаниях, как российских (Яндекс, Сбертех, VK , НИИ Восход), так и зарубежных (Google, Cisco и других). Большие известные компании &ndash; это лидеры отрасли, но они не дают полной картины. В целом по стране всё на много масштабнее: наши выпускники работают в ИТ-подразделениях тысяч российских компаний и организаций, внедряя и эксплуатируя системы управления во всех секторах экономики и бюджетной сферы. Помимо этого, наши выпускники работают в РФ и за рубежом в ведущих международных компаниях&ndash;разработчиках корпоративных систем управления: SAP, Microsoft, 1C, Oracle. IBM, Галактика, Infor, а также в сотнях консалтинговых компаний-партнёров по внедрению бизнес-приложений, в том числе в таких крупных, как ассоциированные компании PwC, EY, Deloitte, KPMG, IBM, Accenture. Большая конкуренция за наших выпускников обусловлена их высоким уровнем подготовки. Широкий спектр работодателей обеспечивает им высокий уровень оплаты труда и гарантированный социальный пакет.",
+      "website_link": "",
+      "website_link_text": ""
+    },
+    {
+      "id": "faculty:ИУ",
+      "label": "Faculty",
+      "code": "ИУ",
+      "slug": "iu"
+    },
+    {
+      "id": "chair:ИУ5:phone",
+      "label": "Contact",
+      "type": "phone",
+      "value": "8(499)267-54-34, 8(499)263-60-20"
+    },
+    {
+      "id": "chair:ИУ5:email",
+      "label": "Contact",
+      "type": "email",
+      "value": "iu5@bmstu.ru"
+    },
+    {
+      "id": "chair:ИУ5:address",
+      "label": "Contact",
+      "type": "address",
+      "value": "г.&nbsp;Москва, 2-я Бауманская ул., д.&nbsp;5, 9&nbsp;этаж, каб. 902"
+    },
+    {
+      "id": "chair:ИУ5:work_time",
+      "label": "Contact",
+      "type": "work_time",
+      "value": "Пн-Пт:10:00-17:00"
+    },
+    {
+      "id": "member:terehov-valerij-igorevic",
+      "label": "Member",
+      "name": "Терехов Валерий Игоревич",
+      "positions": [
+        "Заведующий кафедрой"
+      ],
+      "image": "https://api.mirror.bmstu.ru/upload/member/3339/images/62c42c85e686d/contain_180x180.jpg",
+      "slug": "terehov-valerij-igorevic"
+    },
+    {
+      "id": "partner:яндекс",
+      "label": "Partner",
+      "name": "Яндекс",
+      "image": "https://api.mirror.bmstu.ru/upload/partner/6/images/60d9f1388df52/contain_246x166.jpg"
+    },
+    {
+      "id": "partner:google",
+      "label": "Partner",
+      "name": "Google",
+      "image": "https://api.mirror.bmstu.ru/upload/partner/7/images/60d9f18eba09b/contain_246x166.jpeg"
+    },
+    {
+      "id": "partner:ibm",
+      "label": "Partner",
+      "name": "IBM",
+      "image": "https://api.mirror.bmstu.ru/upload/partner/8/images/60d9f1ca67bf0/contain_246x166.png"
+    },
+    {
+      "id": "partner:sap",
+      "label": "Partner",
+      "name": "SAP",
+      "image": "https://api.mirror.bmstu.ru/upload/partner/9/images/60d9f1fa4d95d/contain_246x166.jpg"
+    },
+    {
+      "id": "partner:pwc",
+      "label": "Partner",
+      "name": "PwC",
+      "image": "https://api.mirror.bmstu.ru/upload/partner/11/images/60d9f27d39484/contain_246x166.jpg"
+    },
+    {
+      "id": "partner:mail-ru-group",
+      "label": "Partner",
+      "name": "Mail.ru group",
+      "image": "https://api.mirror.bmstu.ru/upload/partner/21/images/6177f7e19dfcf/contain_246x166.png"
+    },
+    {
+      "id": "major:09.03.01",
+      "label": "Major",
+      "code": "09.03.01",
+      "name": "Информатика и вычислительная техника",
+      "level": "bachelor",
+      "text": "На направлении готовят специалистов в области разработки и эксплуатации вычислительной техники и прикладного программного обеспечения и информационных систем различного назначения. Выпускники направления смогут заниматься проектированием программных систем. На образовательных программах данного направления рассматриваются вопросы проектирования интеллектуальных систем управления и поддержки принятия решений, разработки наукоёмкого инженерного программного обеспечения различных классов, а также построения и применения сложных программно-аппаратных систем.",
+      "url": "/bachelor/majors/informatika-i-vycislitelnaa-tehnika-090301"
+    },
+    {
+      "id": "major:09.04.01",
+      "label": "Major",
+      "code": "09.04.01",
+      "name": "Информатика и вычислительная техника",
+      "level": "master",
+      "text": "На направлении готовят специалистов в области разработки и эксплуатации информационных систем организационного управления. Выпускники смогут заниматься проектированием программных средств, а также разработкой различных автоматизированных систем управления для экономических и организационных структур с применением методов искусственного интеллекта и платформ обработки больших данных.",
+      "url": "/magistracy/majors/informatika-i-vycislitelnaa-tehnika-090401"
+    },
+    {
+      "id": "major:2.3.1",
+      "label": "Major",
+      "code": "2.3.1",
+      "name": "Системный анализ, управление и обработка информации",
+      "level": "postgraduate",
+      "text": "",
+      "url": "/postgraduate/majors/informatika-i-vychislitelnaya-tekhnika"
+    },
+    {
+      "id": "major:2.3.5",
+      "label": "Major",
+      "code": "2.3.5",
+      "name": "Математическое и программное обеспечение вычислительных систем, комплексов и компьютерных сетей",
+      "level": "postgraduate",
+      "text": "",
+      "url": "/postgraduate/majors/fotonika-priborostroenie-opticheskie-i-biotekhnicheskie-sistemy-i-tekhnologii"
+    },
+    {
+      "id": "major:5.12.4",
+      "label": "Major",
+      "code": "5.12.4",
+      "name": "Когнитивное моделирование",
+      "level": "postgraduate",
+      "text": "",
+      "url": ""
+    },
+    {
+      "id": "major:2.3.4",
+      "label": "Major",
+      "code": "2.3.4",
+      "name": "Управление в организационных системах",
+      "level": "postgraduate",
+      "text": "",
+      "url": "/postgraduate/majors/upravlenie-v-organizacionnykh-sistemakh"
+    },
+    {
+      "id": "major:2.3.8",
+      "label": "Major",
+      "code": "2.3.8",
+      "name": "Информатика и информационные процессы",
+      "level": "postgraduate",
+      "text": "",
+      "url": "/postgraduate/majors/informatika-i-informacionnye-processy"
+    },
+    {
+      "id": "chair:ИУ5:video",
+      "label": "Video",
+      "url": "https://youtu.be/IBfU2jSh-PI",
+      "duration": "< 1 минуты",
+      "poster": "https://api.mirror.bmstu.ru/upload/chair/5/images/64b936ba922af/contain_840x519.jpg",
+      "title": "Фильм о кафедре «Системы обработки информации и управления»"
+    }
+  ],
+  "edges": [
+    {
+      "source": "chair:ИУ5",
+      "target": "faculty:ИУ",
+      "type": "BELONGS_TO_FACULTY"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "chair:ИУ5:phone",
+      "type": "HAS_CONTACT"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "chair:ИУ5:email",
+      "type": "HAS_CONTACT"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "chair:ИУ5:address",
+      "type": "HAS_CONTACT"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "chair:ИУ5:work_time",
+      "type": "HAS_CONTACT"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "member:terehov-valerij-igorevic",
+      "type": "HAS_MEMBER"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "partner:яндекс",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "partner:google",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "partner:ibm",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "partner:sap",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "partner:pwc",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "partner:mail-ru-group",
+      "type": "HAS_PARTNER"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "major:09.03.01",
+      "type": "OFFERS_MAJOR"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "major:09.04.01",
+      "type": "OFFERS_MAJOR"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "major:2.3.1",
+      "type": "OFFERS_MAJOR"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "major:2.3.5",
+      "type": "OFFERS_MAJOR"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "major:5.12.4",
+      "type": "OFFERS_MAJOR"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "major:2.3.4",
+      "type": "OFFERS_MAJOR"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "major:2.3.8",
+      "type": "OFFERS_MAJOR"
+    },
+    {
+      "source": "chair:ИУ5",
+      "target": "chair:ИУ5:video",
+      "type": "HAS_VIDEO"
+    }
+  ],
+  "stats": {
+    "nodes": 21,
+    "edges": 20,
+    "majors": 7,
+    "members": 1,
+    "partners": 6,
+    "socials": 0
+  }
+}

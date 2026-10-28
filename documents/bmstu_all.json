@@ -1,0 +1,2445 @@
+{
+  "sources": [
+    "https://bmstu.ru/events?isActual=1",
+    "https://bmstu.ru/bachelor/tselevoe",
+    "https://bmstu.ru/bachelor/kvota",
+    "https://bmstu.ru/bachelor/RSOSH_list",
+    "https://bmstu.ru/bachelor/poselenie",
+    "https://bmstu.ru/bachelor/bac-examinations",
+    "https://library.bmstu.ru",
+    "https://bmstu.ru/for-students/postuplenie_na_voennuyu_kafedry",
+    "https://bmstu.ru/for-students/stipendii",
+    "https://start-career.bmstu.ru"
+  ],
+  "nodes": [
+    {
+      "id": "page:https-bmstu-ru-events-isactual-1",
+      "label": "Page",
+      "url": "https://bmstu.ru/events?isActual=1",
+      "title": "",
+      "canonical": "",
+      "description": "",
+      "text_excerpt": "⚠ Важное уведомление Для корректной работы нашего веб‑сайта требуется включённый JavaScript. В настоящее время некоторые функции могут быть ограничены. Рекомендации: Включите JavaScript в настройках вашего браузера и обновите страницу. Если у вас возникли трудности, обратитесь в службу поддержки: support@bmstu.ru Important Notice JavaScript is required for our website to function properly. Some features may currently be limited. Recommendation: Please enable JavaScript in your browser settings and refresh the page. If you experience any difficulties, contact support: support@bmstu.ru",
+      "links": [],
+      "next_data_keys": [
+        "props",
+        "page",
+        "query",
+        "buildId",
+        "isFallback",
+        "customServer",
+        "gip",
+        "appGip",
+        "head"
+      ]
+    },
+    {
+      "id": "page:https-bmstu-ru-bachelor-tselevoe",
+      "label": "Page",
+      "url": "https://bmstu.ru/bachelor/tselevoe",
+      "title": "",
+      "canonical": "",
+      "description": "",
+      "text_excerpt": "⚠ Важное уведомление Для корректной работы нашего веб‑сайта требуется включённый JavaScript. В настоящее время некоторые функции могут быть ограничены. Рекомендации: Включите JavaScript в настройках вашего браузера и обновите страницу. Если у вас возникли трудности, обратитесь в службу поддержки: support@bmstu.ru Important Notice JavaScript is required for our website to function properly. Some features may currently be limited. Recommendation: Please enable JavaScript in your browser settings and refresh the page. If you experience any difficulties, contact support: support@bmstu.ru",
+      "links": [],
+      "next_data_keys": [
+        "props",
+        "page",
+        "query",
+        "buildId",
+        "isFallback",
+        "customServer",
+        "gip",
+        "appGip",
+        "head"
+      ]
+    },
+    {
+      "id": "page:https-bmstu-ru-bachelor-kvota",
+      "label": "Page",
+      "url": "https://bmstu.ru/bachelor/kvota",
+      "title": "",
+      "canonical": "",
+      "description": "",
+      "text_excerpt": "⚠ Важное уведомление Для корректной работы нашего веб‑сайта требуется включённый JavaScript. В настоящее время некоторые функции могут быть ограничены. Рекомендации: Включите JavaScript в настройках вашего браузера и обновите страницу. Если у вас возникли трудности, обратитесь в службу поддержки: support@bmstu.ru Important Notice JavaScript is required for our website to function properly. Some features may currently be limited. Recommendation: Please enable JavaScript in your browser settings and refresh the page. If you experience any difficulties, contact support: support@bmstu.ru",
+      "links": [],
+      "next_data_keys": [
+        "props",
+        "page",
+        "query",
+        "buildId",
+        "isFallback",
+        "customServer",
+        "gip",
+        "appGip",
+        "head"
+      ]
+    },
+    {
+      "id": "page:https-bmstu-ru-bachelor-rsosh-list",
+      "label": "Page",
+      "url": "https://bmstu.ru/bachelor/RSOSH_list",
+      "title": "",
+      "canonical": "",
+      "description": "",
+      "text_excerpt": "⚠ Важное уведомление Для корректной работы нашего веб‑сайта требуется включённый JavaScript. В настоящее время некоторые функции могут быть ограничены. Рекомендации: Включите JavaScript в настройках вашего браузера и обновите страницу. Если у вас возникли трудности, обратитесь в службу поддержки: support@bmstu.ru Important Notice JavaScript is required for our website to function properly. Some features may currently be limited. Recommendation: Please enable JavaScript in your browser settings and refresh the page. If you experience any difficulties, contact support: support@bmstu.ru",
+      "links": [],
+      "next_data_keys": [
+        "props",
+        "page",
+        "query",
+        "buildId",
+        "isFallback",
+        "customServer",
+        "gip",
+        "appGip",
+        "head"
+      ]
+    },
+    {
+      "id": "page:https-bmstu-ru-bachelor-poselenie",
+      "label": "Page",
+      "url": "https://bmstu.ru/bachelor/poselenie",
+      "title": "",
+      "canonical": "",
+      "description": "",
+      "text_excerpt": "⚠ Важное уведомление Для корректной работы нашего веб‑сайта требуется включённый JavaScript. В настоящее время некоторые функции могут быть ограничены. Рекомендации: Включите JavaScript в настройках вашего браузера и обновите страницу. Если у вас возникли трудности, обратитесь в службу поддержки: support@bmstu.ru Important Notice JavaScript is required for our website to function properly. Some features may currently be limited. Recommendation: Please enable JavaScript in your browser settings and refresh the page. If you experience any difficulties, contact support: support@bmstu.ru",
+      "links": [],
+      "next_data_keys": [
+        "props",
+        "page",
+        "query",
+        "buildId",
+        "isFallback",
+        "customServer",
+        "gip",
+        "appGip",
+        "head"
+      ]
+    },
+    {
+      "id": "page:https-bmstu-ru-bachelor-bac-examinations",
+      "label": "Page",
+      "url": "https://bmstu.ru/bachelor/bac-examinations",
+      "title": "",
+      "canonical": "",
+      "description": "",
+      "text_excerpt": "⚠ Важное уведомление Для корректной работы нашего веб‑сайта требуется включённый JavaScript. В настоящее время некоторые функции могут быть ограничены. Рекомендации: Включите JavaScript в настройках вашего браузера и обновите страницу. Если у вас возникли трудности, обратитесь в службу поддержки: support@bmstu.ru Important Notice JavaScript is required for our website to function properly. Some features may currently be limited. Recommendation: Please enable JavaScript in your browser settings and refresh the page. If you experience any difficulties, contact support: support@bmstu.ru",
+      "links": [],
+      "next_data_keys": [
+        "props",
+        "page",
+        "query",
+        "buildId",
+        "isFallback",
+        "customServer",
+        "gip",
+        "appGip",
+        "head"
+      ]
+    },
+    {
+      "id": "page:https-bmstu-ru-for-students-postuplenie-na-voennuyu-kafedry",
+      "label": "Page",
+      "url": "https://bmstu.ru/for-students/postuplenie_na_voennuyu_kafedry",
+      "title": "",
+      "canonical": "",
+      "description": "",
+      "text_excerpt": "⚠ Важное уведомление Для корректной работы нашего веб‑сайта требуется включённый JavaScript. В настоящее время некоторые функции могут быть ограничены. Рекомендации: Включите JavaScript в настройках вашего браузера и обновите страницу. Если у вас возникли трудности, обратитесь в службу поддержки: support@bmstu.ru Important Notice JavaScript is required for our website to function properly. Some features may currently be limited. Recommendation: Please enable JavaScript in your browser settings and refresh the page. If you experience any difficulties, contact support: support@bmstu.ru",
+      "links": [],
+      "next_data_keys": [
+        "props",
+        "page",
+        "query",
+        "buildId",
+        "isFallback",
+        "customServer",
+        "gip",
+        "appGip",
+        "head"
+      ]
+    },
+    {
+      "id": "page:https-bmstu-ru-for-students-stipendii",
+      "label": "Page",
+      "url": "https://bmstu.ru/for-students/stipendii",
+      "title": "",
+      "canonical": "",
+      "description": "",
+      "text_excerpt": "⚠ Важное уведомление Для корректной работы нашего веб‑сайта требуется включённый JavaScript. В настоящее время некоторые функции могут быть ограничены. Рекомендации: Включите JavaScript в настройках вашего браузера и обновите страницу. Если у вас возникли трудности, обратитесь в службу поддержки: support@bmstu.ru Important Notice JavaScript is required for our website to function properly. Some features may currently be limited. Recommendation: Please enable JavaScript in your browser settings and refresh the page. If you experience any difficulties, contact support: support@bmstu.ru",
+      "links": [],
+      "next_data_keys": [
+        "props",
+        "page",
+        "query",
+        "buildId",
+        "isFallback",
+        "customServer",
+        "gip",
+        "appGip",
+        "head"
+      ]
+    },
+    {
+      "id": "page:https-start-career-bmstu-ru",
+      "label": "Page",
+      "url": "https://start-career.bmstu.ru",
+      "title": "Центр Карьеры МГТУ им. Н. Э. Баумана",
+      "canonical": "https://start-career.bmstu.ru/",
+      "description": "",
+      "text_excerpt": "НАЙДИ РАБОТУ СЕГОДНЯ! Актуальные вакансии, лучшие работодатели, карьерные мероприятия Название Где Город/станция метро Балашиха Богородский городского округ, д. Белая Бронницы Быково Видное Вологда Десногорск Дзержинский Долгопрудный Домодедово Дубна Екатеринбург Железногорск, Красноярский край Жуковский Зеленоград Ивантеевка Калининград Калуга Климовск Клин Королев Красногорск Краснодар Лобня Люберцы Москва Московская обл., д. Медвежьи озёра Мытищи Наро-Фоминск Нижний Новгород Ногинск Обнинск Одинцово Подольск Пушкино Раменское Реутов Санкт-Петербург Сарапул Сергиев-Посад Серпухов Сургут Тольятти Троицк Тула Ульяновск Фролово Фрязино Химки Хотьково Череповец Черноголовка Чехов Щелково Категории Все категории IT Авиастроение Аналитика Безопасность технологических процессов и производств Информационная безопасность Исследования в сфере управления персоналом Логистика Маркетинг Машиностроение Медтехника Образование Приборостроение Продажи Проектирование инженерных систем Производство Процессное управление Радиоэлектроника Робототехника СВЧ-техника Строительство Судебная Экспертиза Телеком Управление Финансы Экология Электроника Энергетика Юриспруденция Популярные запросы: инженер стажировка Инженер-конструктор программист Инженер технолог Вакансия Стажёр famous mark . Работодателям Участие в карьерных мероприятиях Проведение лекций и вебинаров Размещение вакансий Развитие бренда работодателя Разместить вакансию Студентам Вакансии и стажировки Кадровые мероприятия Составление резюме Консультации Зарегистрироваться Карьерные мероприятия и новости _ Стартует 3 сезон программы амбассадоров RWB - подай заявку! Компания RWB (Объединённая компания Wildberries & Russ) — это международная технологическая компания, основанная в России.… Центр Карьеры МГТУ им Н.Э. Баумана Подробнее _ ИТ-холдинг Т1 приглашает студентов технических и ИТ-специальностей на стажировку по Ruby-разработке Тебя ждет: ✔️3 месяца оплачиваемой стажировки✔️Гибкий график, можно совмещать с учебой✔️Команда единомышленников✔️Опытный наставник для погружения… Центр Карьеры МГТУ им Н.Э. Баумана Подробнее _ Ярмарка вакансий в ОЭЗ «Дубна» пройдет 18 апреля 18 апреля в Конгресс-центре особой экономической зоны «Дубна» состоится ярмарка вакансий — одно из крупнейших… Центр Карьеры МГТУ им Н.Э. Баумана Подробнее _ Стажировка в федеральном ведомстве Минобрнауки России объявило о запуске 4-го сезона проекта «Стажёр госслужбы России» для отбора молодых специалистов… Центр Карьеры МГТУ им Н.Э. Баумана Подробнее _ 📈 Переходи на следующий уровень: коммерциализируй свою разработку в Академии Инноваторов Устали от теории? Преврати свою инновационную идею в работающий бизнес с Академией Инноваторов! Она ищет… Центр Карьеры МГТУ им Н.Э. Баумана Подробнее _ ⚡️ Карьерный форум «Взлет» Если вы стремитесь найти работу своей мечты и получить ценные советы от ведущих специалистов крупных… Центр Карьеры МГТУ им Н.Э. Баумана Подробнее Еще мероприятия Дайджест с Выставки работодателей \"Начало Карьеры\" 6 апреля Вакан",
+      "links": [
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/"
+        },
+        {
+          "text": "инженер",
+          "url": "https://start-career.bmstu.ru/jobs/?keyword=%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80"
+        },
+        {
+          "text": "стажировка",
+          "url": "https://start-career.bmstu.ru/jobs/?keyword=%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0"
+        },
+        {
+          "text": "Инженер-конструктор",
+          "url": "https://start-career.bmstu.ru/jobs/?keyword=%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80-%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80"
+        },
+        {
+          "text": "программист",
+          "url": "https://start-career.bmstu.ru/jobs/?keyword=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82"
+        },
+        {
+          "text": "Инженер технолог",
+          "url": "https://start-career.bmstu.ru/jobs/?keyword=%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80+%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3"
+        },
+        {
+          "text": "Вакансия",
+          "url": "https://start-career.bmstu.ru/jobs/?keyword=%D0%92%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F"
+        },
+        {
+          "text": "Стажёр",
+          "url": "https://start-career.bmstu.ru/jobs/?keyword=%D0%A1%D1%82%D0%B0%D0%B6%D1%91%D1%80"
+        },
+        {
+          "text": "Зарегистрироваться",
+          "url": "https://start-career.bmstu.ru/register/"
+        },
+        {
+          "text": "_",
+          "url": "https://start-career.bmstu.ru/category/%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8/"
+        },
+        {
+          "text": "Стартует 3 сезон программы амбассадоров RWB - подай заявку!",
+          "url": "https://start-career.bmstu.ru/2026/10/06/%d1%81%d1%82%d0%b0%d1%80%d1%82%d1%83%d0%b5%d1%82-3-%d1%81%d0%b5%d0%b7%d0%be%d0%bd-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d1%8b-%d0%b0%d0%bc%d0%b1%d0%b0%d1%81%d1%81%d0%b0%d0%b4%d0%be%d1%80/"
+        },
+        {
+          "text": "Центр Карьеры МГТУ им Н.Э. Баумана",
+          "url": "https://start-career.bmstu.ru/author/admin/"
+        },
+        {
+          "text": "ИТ-холдинг Т1 приглашает студентов технических и ИТ-специальностей на стажировку по Ruby-разработке",
+          "url": "https://start-career.bmstu.ru/2026/02/25/%d0%b8%d1%82-%d1%85%d0%be%d0%bb%d0%b4%d0%b8%d0%bd%d0%b3-%d1%821-%d0%bf%d1%80%d0%b8%d0%b3%d0%bb%d0%b0%d1%88%d0%b0%d0%b5%d1%82-%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d0%be%d0%b2-%d1%82%d0%b5%d1%85/"
+        },
+        {
+          "text": "Ярмарка вакансий в ОЭЗ «Дубна» пройдет 18 апреля",
+          "url": "https://start-career.bmstu.ru/2026/02/15/%d1%8f%d1%80%d0%bc%d0%b0%d1%80%d0%ba%d0%b0-%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%81%d0%b8%d0%b9-%d0%b2-%d0%be%d1%8d%d0%b7-%d0%b4%d1%83%d0%b1%d0%bd%d0%b0-%d0%bf%d1%80%d0%be%d0%b9%d0%b4%d0%b5/"
+        },
+        {
+          "text": "Стажировка в федеральном ведомстве",
+          "url": "https://start-career.bmstu.ru/2026/01/29/%d1%81%d1%82%d0%b0%d0%b6%d0%b8%d1%80%d0%be%d0%b2%d0%ba%d0%b0-%d0%b2-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%bc-%d0%b2%d0%b5%d0%b4%d0%be%d0%bc%d1%81%d1%82%d0%b2%d0%b5/"
+        },
+        {
+          "text": "📈 Переходи на следующий уровень: коммерциализируй свою разработку в Академии Инноваторов",
+          "url": "https://start-career.bmstu.ru/2025/11/27/%f0%9f%93%88-%d0%bf%d0%b5%d1%80%d0%b5%d1%85%d0%be%d0%b4%d0%b8-%d0%bd%d0%b0-%d1%81%d0%bb%d0%b5%d0%b4%d1%83%d1%8e%d1%89%d0%b8%d0%b9-%d1%83%d1%80%d0%be%d0%b2%d0%b5%d0%bd%d1%8c-%d0%ba%d0%be%d0%bc%d0%bc/"
+        },
+        {
+          "text": "⚡️ Карьерный форум «Взлет»",
+          "url": "https://start-career.bmstu.ru/2025/11/26/%e2%9a%a1%ef%b8%8f-%d0%ba%d0%b0%d1%80%d1%8c%d0%b5%d1%80%d0%bd%d1%8b%d0%b9-%d1%84%d0%be%d1%80%d1%83%d0%bc-%d0%b2%d0%b7%d0%bb%d0%b5%d1%82/"
+        },
+        {
+          "text": "Еще мероприятия",
+          "url": "https://start-career.bmstu.ru/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F/"
+        },
+        {
+          "text": "Дайджест с Выставки работодателей \"Начало Карьеры\" 6 апреля",
+          "url": "https://start-career.bmstu.ru/wp-content/uploads/digest_06_04_23-1.pdf"
+        },
+        {
+          "text": "Преподаватель технических дисциплин в Правительство Москвы (Доступно для соискателей с ОВЗ)",
+          "url": "https://start-career.bmstu.ru/job/%d0%bf%d1%80%d0%b5%d0%bf%d0%be%d0%b4%d0%b0%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8c-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d1%85-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd/"
+        },
+        {
+          "text": "Москва",
+          "url": "https://start-career.bmstu.ru/location/%d0%bc%d0%be%d1%81%d0%ba%d0%b2%d0%b0/"
+        },
+        {
+          "text": "Стажировка в ООО «Умный дом Емеля» (Доступно для соискателей с ОВЗ)",
+          "url": "https://start-career.bmstu.ru/job/%d1%81%d1%82%d0%b0%d0%b6%d0%b8%d1%80%d0%be%d0%b2%d0%ba%d0%b0-%d0%b2-%d0%be%d0%be%d0%be-%d1%83%d0%bc%d0%bd%d1%8b%d0%b9-%d0%b4%d0%be%d0%bc-%d0%b5%d0%bc%d0%b5%d0%bb%d1%8f-%d0%b4%d0%be%d1%81/"
+        },
+        {
+          "text": "Все вакансии и стажировки",
+          "url": "https://start-career.bmstu.ru/jobs/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/%d1%86%d0%b5%d0%bd%d1%82%d1%80-%d0%ba%d0%b0%d1%80%d1%8c%d0%b5%d1%80%d1%8b-%d0%bc%d0%b3%d1%82%d1%83-%d0%b8%d0%bc-%d0%bd-%d1%8d-%d0%b1%d0%b0%d1%83%d0%bc%d0%b0%d0%bd%d0%b0/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/finval/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/ctp-aero/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/ozon/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/tecon/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/mts/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/pulsar/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/almaz-antey/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/bazalt/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/yakovlev/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/%d0%ba%d0%be%d1%80%d0%bf%d0%be%d1%80%d0%b0%d1%86%d0%b8%d1%8f-%d1%82%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d1%80%d0%b0%d0%ba%d0%b5%d1%82%d0%bd%d0%be%d0%b5-%d0%b2%d0%be/"
+        },
+        {
+          "text": "Королев",
+          "url": "https://start-career.bmstu.ru/location/%d0%ba%d0%be%d1%80%d0%be%d0%bb%d0%b5%d0%b2/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/mit/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/gamma/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/pribor/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/roslesinforg/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/eleron/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/scma/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/tupolev/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/cagi/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/ciam/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/energia/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/il/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/nimi/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/niitp/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/npcap/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/tsenki/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/niip/"
+        },
+        {
+          "text": "Жуковский",
+          "url": "https://start-career.bmstu.ru/location/%d0%b6%d1%83%d0%ba%d0%be%d0%b2%d1%81%d0%ba%d0%b8%d0%b9/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/itoz/"
+        },
+        {
+          "text": "Тула",
+          "url": "https://start-career.bmstu.ru/location/%d1%82%d1%83%d0%bb%d0%b0/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/nami/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/rpkb/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/kmz/"
+        },
+        {
+          "text": "Красногорск",
+          "url": "https://start-career.bmstu.ru/location/%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%be%d0%b3%d0%be%d1%80%d1%81%d0%ba/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/npkspp/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/kupol/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/gosniip/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/aviafarm/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/gorizont/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/zvezda/"
+        },
+        {
+          "text": "Люберцы",
+          "url": "https://start-career.bmstu.ru/location/%d0%bb%d1%8e%d0%b1%d0%b5%d1%80%d1%86%d1%8b/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/ofs/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/cnii4/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/granit/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/istok/"
+        },
+        {
+          "text": "Фрязино",
+          "url": "https://start-career.bmstu.ru/location/%d1%84%d1%80%d1%8f%d0%b7%d0%b8%d0%bd%d0%be/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/kemz/"
+        },
+        {
+          "text": "Калуга",
+          "url": "https://start-career.bmstu.ru/location/%d0%ba%d0%b0%d0%bb%d1%83%d0%b3%d0%b0/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/nfmz/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/odk/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/rks/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/citis/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/fei/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/excellence-expert/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/cinimex/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/sovcombank/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/tek-kom/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/tehnekon/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/uzga/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/erstvak/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/schlumberger/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/systeme-electric/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/consultant/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/sputnix/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/%d0%b3%d0%b1%d1%83-%d0%bc%d0%be%d1%81%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/raymed/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/domrf/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/croc/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/amt/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/mkb/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/avito/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/cniihm/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/otp/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/vniia/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/vk/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/adl/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/stkengineering/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/tedo/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/nikiet/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/glowbyte/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/aerospace-systems/"
+        },
+        {
+          "text": "Дубна",
+          "url": "https://start-career.bmstu.ru/location/%d0%b4%d1%83%d0%b1%d0%bd%d0%b0/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/ikarcenter/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/sber/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/antraks/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/bellerage/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/skolteh/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/nipigaz/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/alfa/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/aquastok/"
+        },
+        {
+          "text": "Краснодар",
+          "url": "https://start-career.bmstu.ru/location/%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%be%d0%b4%d0%b0%d1%80/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/bank_russia/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/jet/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/vekprom/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/ecrt/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/westmedgroup/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/vtb/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/sravni/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/tehnogroup/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/kept/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/vulkan/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/nanocad/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/nik/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/rosatom/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/jti/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/unigreen-energy/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/agv/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/hevelsolar/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/intech-group/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/terralink/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/avalonelectrotech/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/jet-2/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/termocool/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/rostselmash/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/comitas/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/itelma/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/slt/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/omk/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/liaz-ru/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/fluid-line/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/avgroup/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/ozontech/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/mfmc/"
+        },
+        {
+          "text": "",
+          "url": "https://start-career.bmstu.ru/employer/%d0%b3%d1%80%d1%83%d0%bf%d0%bf%d0%b0-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d0%b9-%d0%b0%d0%ba/"
+        },
+        {
+          "text": "Забыли пароль?",
+          "url": "https://start-career.bmstu.ru/lost-password/"
+        }
+      ]
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-jobs-keyword-d0-b8-d0-bd-d0-b6-d0-b5-d0-bd-d0-b5-d1-80",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/jobs/?keyword=%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80",
+      "text": "инженер"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-jobs-keyword-d1-81-d1-82-d0-b0-d0-b6-d0-b8-d1-80-d0-be-d0-b2-d0-ba-d0-b0",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/jobs/?keyword=%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0",
+      "text": "стажировка"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-jobs-keyword-d0-98-d0-bd-d0-b6-d0-b5-d0-bd-d0-b5-d1-80-d0-ba-d0-be-d0-bd-d1-81-d1-82-d1-80-d1-83-d0-ba-d1-82-d0-be-d1-80",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/jobs/?keyword=%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80-%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80",
+      "text": "Инженер-конструктор"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-jobs-keyword-d0-bf-d1-80-d0-be-d0-b3-d1-80-d0-b0-d0-bc-d0-bc-d0-b8-d1-81-d1-82",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/jobs/?keyword=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82",
+      "text": "программист"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-jobs-keyword-d0-98-d0-bd-d0-b6-d0-b5-d0-bd-d0-b5-d1-80-d1-82-d0-b5-d1-85-d0-bd-d0-be-d0-bb-d0-be-d0-b3",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/jobs/?keyword=%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80+%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3",
+      "text": "Инженер технолог"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-jobs-keyword-d0-92-d0-b0-d0-ba-d0-b0-d0-bd-d1-81-d0-b8-d1-8f",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/jobs/?keyword=%D0%92%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F",
+      "text": "Вакансия"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-jobs-keyword-d0-a1-d1-82-d0-b0-d0-b6-d1-91-d1-80",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/jobs/?keyword=%D0%A1%D1%82%D0%B0%D0%B6%D1%91%D1%80",
+      "text": "Стажёр"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-register",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/register/",
+      "text": "Зарегистрироваться"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-category-d0-b1-d0-b5-d0-b7-d1-80-d1-83-d0-b1-d1-80-d0-b8-d0-ba-d0-b8",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/category/%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8/",
+      "text": "_"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-2026-10-06-d1-81-d1-82-d0-b0-d1-80-d1-82-d1-83-d0-b5-d1-82-3-d1-81-d0-b5-d0-b7-d0-be-d0-bd-d0-bf-d1-80-d0-be-d0-b3-d1-80-d0-b0-d0-bc-d0-bc-d1-8b-d0-b0-d0-bc-d0-b1-d0-b0-d1-81-d1-81-d0-b0-d0-b4-d0-be-d1-80",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/2026/10/06/%d1%81%d1%82%d0%b0%d1%80%d1%82%d1%83%d0%b5%d1%82-3-%d1%81%d0%b5%d0%b7%d0%be%d0%bd-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d1%8b-%d0%b0%d0%bc%d0%b1%d0%b0%d1%81%d1%81%d0%b0%d0%b4%d0%be%d1%80/",
+      "text": "Стартует 3 сезон программы амбассадоров RWB - подай заявку!"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-author-admin",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/author/admin/",
+      "text": "Центр Карьеры МГТУ им Н.Э. Баумана"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-2026-02-25-d0-b8-d1-82-d1-85-d0-be-d0-bb-d0-b4-d0-b8-d0-bd-d0-b3-d1-821-d0-bf-d1-80-d0-b8-d0-b3-d0-bb-d0-b0-d1-88-d0-b0-d0-b5-d1-82-d1-81-d1-82-d1-83-d0-b4-d0-b5-d0-bd-d1-82-d0-be-d0-b2-d1-82-d0-b5-d1-85",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/2026/02/25/%d0%b8%d1%82-%d1%85%d0%be%d0%bb%d0%b4%d0%b8%d0%bd%d0%b3-%d1%821-%d0%bf%d1%80%d0%b8%d0%b3%d0%bb%d0%b0%d1%88%d0%b0%d0%b5%d1%82-%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d0%be%d0%b2-%d1%82%d0%b5%d1%85/",
+      "text": "ИТ-холдинг Т1 приглашает студентов технических и ИТ-специальностей на стажировку по Ruby-разработке"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-2026-02-15-d1-8f-d1-80-d0-bc-d0-b0-d1-80-d0-ba-d0-b0-d0-b2-d0-b0-d0-ba-d0-b0-d0-bd-d1-81-d0-b8-d0-b9-d0-b2-d0-be-d1-8d-d0-b7-d0-b4-d1-83-d0-b1-d0-bd-d0-b0-d0-bf-d1-80-d0-be-d0-b9-d0-b4-d0-b5",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/2026/02/15/%d1%8f%d1%80%d0%bc%d0%b0%d1%80%d0%ba%d0%b0-%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%81%d0%b8%d0%b9-%d0%b2-%d0%be%d1%8d%d0%b7-%d0%b4%d1%83%d0%b1%d0%bd%d0%b0-%d0%bf%d1%80%d0%be%d0%b9%d0%b4%d0%b5/",
+      "text": "Ярмарка вакансий в ОЭЗ «Дубна» пройдет 18 апреля"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-2026-01-29-d1-81-d1-82-d0-b0-d0-b6-d0-b8-d1-80-d0-be-d0-b2-d0-ba-d0-b0-d0-b2-d1-84-d0-b5-d0-b4-d0-b5-d1-80-d0-b0-d0-bb-d1-8c-d0-bd-d0-be-d0-bc-d0-b2-d0-b5-d0-b4-d0-be-d0-bc-d1-81-d1-82-d0-b2-d0-b5",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/2026/01/29/%d1%81%d1%82%d0%b0%d0%b6%d0%b8%d1%80%d0%be%d0%b2%d0%ba%d0%b0-%d0%b2-%d1%84%d0%b5%d0%b4%d0%b5%d1%80%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%bc-%d0%b2%d0%b5%d0%b4%d0%be%d0%bc%d1%81%d1%82%d0%b2%d0%b5/",
+      "text": "Стажировка в федеральном ведомстве"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-2025-11-27-f0-9f-93-88-d0-bf-d0-b5-d1-80-d0-b5-d1-85-d0-be-d0-b4-d0-b8-d0-bd-d0-b0-d1-81-d0-bb-d0-b5-d0-b4-d1-83-d1-8e-d1-89-d0-b8-d0-b9-d1-83-d1-80-d0-be-d0-b2-d0-b5-d0-bd-d1-8c-d0-ba-d0-be-d0-bc-d0-bc",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/2025/11/27/%f0%9f%93%88-%d0%bf%d0%b5%d1%80%d0%b5%d1%85%d0%be%d0%b4%d0%b8-%d0%bd%d0%b0-%d1%81%d0%bb%d0%b5%d0%b4%d1%83%d1%8e%d1%89%d0%b8%d0%b9-%d1%83%d1%80%d0%be%d0%b2%d0%b5%d0%bd%d1%8c-%d0%ba%d0%be%d0%bc%d0%bc/",
+      "text": "📈 Переходи на следующий уровень: коммерциализируй свою разработку в Академии Инноваторов"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-2025-11-26-e2-9a-a1-ef-b8-8f-d0-ba-d0-b0-d1-80-d1-8c-d0-b5-d1-80-d0-bd-d1-8b-d0-b9-d1-84-d0-be-d1-80-d1-83-d0-bc-d0-b2-d0-b7-d0-bb-d0-b5-d1-82",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/2025/11/26/%e2%9a%a1%ef%b8%8f-%d0%ba%d0%b0%d1%80%d1%8c%d0%b5%d1%80%d0%bd%d1%8b%d0%b9-%d1%84%d0%be%d1%80%d1%83%d0%bc-%d0%b2%d0%b7%d0%bb%d0%b5%d1%82/",
+      "text": "⚡️ Карьерный форум «Взлет»"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-d0-bc-d0-b5-d1-80-d0-be-d0-bf-d1-80-d0-b8-d1-8f-d1-82-d0-b8-d1-8f",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F/",
+      "text": "Еще мероприятия"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-wp-content-uploads-digest-06-04-23-1-pdf",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/wp-content/uploads/digest_06_04_23-1.pdf",
+      "text": "Дайджест с Выставки работодателей \"Начало Карьеры\" 6 апреля"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-job-d0-bf-d1-80-d0-b5-d0-bf-d0-be-d0-b4-d0-b0-d0-b2-d0-b0-d1-82-d0-b5-d0-bb-d1-8c-d1-82-d0-b5-d1-85-d0-bd-d0-b8-d1-87-d0-b5-d1-81-d0-ba-d0-b8-d1-85-d0-b4-d0-b8-d1-81-d1-86-d0-b8-d0-bf-d0-bb-d0-b8-d0-bd",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/job/%d0%bf%d1%80%d0%b5%d0%bf%d0%be%d0%b4%d0%b0%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8c-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d1%85-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd/",
+      "text": "Преподаватель технических дисциплин в Правительство Москвы (Доступно для соискателей с ОВЗ)"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-location-d0-bc-d0-be-d1-81-d0-ba-d0-b2-d0-b0",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/location/%d0%bc%d0%be%d1%81%d0%ba%d0%b2%d0%b0/",
+      "text": "Москва"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-job-d1-81-d1-82-d0-b0-d0-b6-d0-b8-d1-80-d0-be-d0-b2-d0-ba-d0-b0-d0-b2-d0-be-d0-be-d0-be-d1-83-d0-bc-d0-bd-d1-8b-d0-b9-d0-b4-d0-be-d0-bc-d0-b5-d0-bc-d0-b5-d0-bb-d1-8f-d0-b4-d0-be-d1-81",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/job/%d1%81%d1%82%d0%b0%d0%b6%d0%b8%d1%80%d0%be%d0%b2%d0%ba%d0%b0-%d0%b2-%d0%be%d0%be%d0%be-%d1%83%d0%bc%d0%bd%d1%8b%d0%b9-%d0%b4%d0%be%d0%bc-%d0%b5%d0%bc%d0%b5%d0%bb%d1%8f-%d0%b4%d0%be%d1%81/",
+      "text": "Стажировка в ООО «Умный дом Емеля» (Доступно для соискателей с ОВЗ)"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-jobs",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/jobs/",
+      "text": "Все вакансии и стажировки"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-d1-86-d0-b5-d0-bd-d1-82-d1-80-d0-ba-d0-b0-d1-80-d1-8c-d0-b5-d1-80-d1-8b-d0-bc-d0-b3-d1-82-d1-83-d0-b8-d0-bc-d0-bd-d1-8d-d0-b1-d0-b0-d1-83-d0-bc-d0-b0-d0-bd-d0-b0",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/%d1%86%d0%b5%d0%bd%d1%82%d1%80-%d0%ba%d0%b0%d1%80%d1%8c%d0%b5%d1%80%d1%8b-%d0%bc%d0%b3%d1%82%d1%83-%d0%b8%d0%bc-%d0%bd-%d1%8d-%d0%b1%d0%b0%d1%83%d0%bc%d0%b0%d0%bd%d0%b0/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-finval",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/finval/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-ctp-aero",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/ctp-aero/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-ozon",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/ozon/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-tecon",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/tecon/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-mts",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/mts/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-pulsar",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/pulsar/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-almaz-antey",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/almaz-antey/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-bazalt",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/bazalt/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-yakovlev",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/yakovlev/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-d0-ba-d0-be-d1-80-d0-bf-d0-be-d1-80-d0-b0-d1-86-d0-b8-d1-8f-d1-82-d0-b0-d0-ba-d1-82-d0-b8-d1-87-d0-b5-d1-81-d0-ba-d0-be-d0-b5-d1-80-d0-b0-d0-ba-d0-b5-d1-82-d0-bd-d0-be-d0-b5-d0-b2-d0-be",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/%d0%ba%d0%be%d1%80%d0%bf%d0%be%d1%80%d0%b0%d1%86%d0%b8%d1%8f-%d1%82%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d1%80%d0%b0%d0%ba%d0%b5%d1%82%d0%bd%d0%be%d0%b5-%d0%b2%d0%be/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-location-d0-ba-d0-be-d1-80-d0-be-d0-bb-d0-b5-d0-b2",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/location/%d0%ba%d0%be%d1%80%d0%be%d0%bb%d0%b5%d0%b2/",
+      "text": "Королев"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-mit",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/mit/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-gamma",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/gamma/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-pribor",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/pribor/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-roslesinforg",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/roslesinforg/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-eleron",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/eleron/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-scma",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/scma/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-tupolev",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/tupolev/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-cagi",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/cagi/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-ciam",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/ciam/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-energia",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/energia/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-il",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/il/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-nimi",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/nimi/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-niitp",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/niitp/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-npcap",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/npcap/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-tsenki",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/tsenki/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-niip",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/niip/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-location-d0-b6-d1-83-d0-ba-d0-be-d0-b2-d1-81-d0-ba-d0-b8-d0-b9",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/location/%d0%b6%d1%83%d0%ba%d0%be%d0%b2%d1%81%d0%ba%d0%b8%d0%b9/",
+      "text": "Жуковский"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-itoz",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/itoz/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-location-d1-82-d1-83-d0-bb-d0-b0",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/location/%d1%82%d1%83%d0%bb%d0%b0/",
+      "text": "Тула"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-nami",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/nami/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-rpkb",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/rpkb/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-kmz",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/kmz/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-location-d0-ba-d1-80-d0-b0-d1-81-d0-bd-d0-be-d0-b3-d0-be-d1-80-d1-81-d0-ba",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/location/%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%be%d0%b3%d0%be%d1%80%d1%81%d0%ba/",
+      "text": "Красногорск"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-npkspp",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/npkspp/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-kupol",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/kupol/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-gosniip",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/gosniip/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-aviafarm",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/aviafarm/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-gorizont",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/gorizont/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-zvezda",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/zvezda/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-location-d0-bb-d1-8e-d0-b1-d0-b5-d1-80-d1-86-d1-8b",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/location/%d0%bb%d1%8e%d0%b1%d0%b5%d1%80%d1%86%d1%8b/",
+      "text": "Люберцы"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-ofs",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/ofs/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-cnii4",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/cnii4/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-granit",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/granit/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-istok",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/istok/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-location-d1-84-d1-80-d1-8f-d0-b7-d0-b8-d0-bd-d0-be",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/location/%d1%84%d1%80%d1%8f%d0%b7%d0%b8%d0%bd%d0%be/",
+      "text": "Фрязино"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-kemz",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/kemz/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-location-d0-ba-d0-b0-d0-bb-d1-83-d0-b3-d0-b0",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/location/%d0%ba%d0%b0%d0%bb%d1%83%d0%b3%d0%b0/",
+      "text": "Калуга"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-nfmz",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/nfmz/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-odk",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/odk/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-rks",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/rks/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-citis",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/citis/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-fei",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/fei/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-excellence-expert",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/excellence-expert/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-cinimex",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/cinimex/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-sovcombank",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/sovcombank/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-tek-kom",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/tek-kom/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-tehnekon",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/tehnekon/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-uzga",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/uzga/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-erstvak",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/erstvak/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-schlumberger",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/schlumberger/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-systeme-electric",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/systeme-electric/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-consultant",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/consultant/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-sputnix",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/sputnix/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-d0-b3-d0-b1-d1-83-d0-bc-d0-be-d1-81-d1-82-d1-80-d0-b0-d0-bd-d1-81-d0-bf-d1-80-d0-be-d0-b5-d0-ba-d1-82",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/%d0%b3%d0%b1%d1%83-%d0%bc%d0%be%d1%81%d1%82%d1%80%d0%b0%d0%bd%d1%81%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-raymed",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/raymed/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-domrf",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/domrf/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-croc",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/croc/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-amt",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/amt/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-mkb",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/mkb/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-avito",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/avito/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-cniihm",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/cniihm/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-otp",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/otp/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-vniia",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/vniia/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-vk",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/vk/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-adl",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/adl/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-stkengineering",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/stkengineering/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-tedo",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/tedo/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-nikiet",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/nikiet/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-glowbyte",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/glowbyte/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-aerospace-systems",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/aerospace-systems/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-location-d0-b4-d1-83-d0-b1-d0-bd-d0-b0",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/location/%d0%b4%d1%83%d0%b1%d0%bd%d0%b0/",
+      "text": "Дубна"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-ikarcenter",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/ikarcenter/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-sber",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/sber/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-antraks",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/antraks/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-bellerage",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/bellerage/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-skolteh",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/skolteh/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-nipigaz",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/nipigaz/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-alfa",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/alfa/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-aquastok",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/aquastok/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-location-d0-ba-d1-80-d0-b0-d1-81-d0-bd-d0-be-d0-b4-d0-b0-d1-80",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/location/%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%be%d0%b4%d0%b0%d1%80/",
+      "text": "Краснодар"
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-bank-russia",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/bank_russia/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-jet",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/jet/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-vekprom",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/vekprom/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-ecrt",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/ecrt/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-westmedgroup",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/westmedgroup/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-vtb",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/vtb/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-sravni",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/sravni/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-tehnogroup",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/tehnogroup/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-kept",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/kept/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-vulkan",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/vulkan/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-nanocad",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/nanocad/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-nik",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/nik/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-rosatom",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/rosatom/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-jti",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/jti/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-unigreen-energy",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/unigreen-energy/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-agv",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/agv/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-hevelsolar",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/hevelsolar/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-intech-group",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/intech-group/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-terralink",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/terralink/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-avalonelectrotech",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/avalonelectrotech/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-jet-2",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/jet-2/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-termocool",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/termocool/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-rostselmash",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/rostselmash/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-comitas",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/comitas/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-itelma",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/itelma/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-slt",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/slt/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-omk",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/omk/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-liaz-ru",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/liaz-ru/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-fluid-line",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/fluid-line/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-avgroup",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/avgroup/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-ozontech",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/ozontech/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-mfmc",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/mfmc/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-employer-d0-b3-d1-80-d1-83-d0-bf-d0-bf-d0-b0-d0-ba-d0-be-d0-bc-d0-bf-d0-b0-d0-bd-d0-b8-d0-b9-d0-b0-d0-ba",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/employer/%d0%b3%d1%80%d1%83%d0%bf%d0%bf%d0%b0-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d0%b9-%d0%b0%d0%ba/",
+      "text": ""
+    },
+    {
+      "id": "url:https-start-career-bmstu-ru-lost-password",
+      "label": "ExternalURL",
+      "url": "https://start-career.bmstu.ru/lost-password/",
+      "text": "Забыли пароль?"
+    }
+  ],
+  "edges": [
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-jobs-keyword-d0-b8-d0-bd-d0-b6-d0-b5-d0-bd-d0-b5-d1-80",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-jobs-keyword-d1-81-d1-82-d0-b0-d0-b6-d0-b8-d1-80-d0-be-d0-b2-d0-ba-d0-b0",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-jobs-keyword-d0-98-d0-bd-d0-b6-d0-b5-d0-bd-d0-b5-d1-80-d0-ba-d0-be-d0-bd-d1-81-d1-82-d1-80-d1-83-d0-ba-d1-82-d0-be-d1-80",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-jobs-keyword-d0-bf-d1-80-d0-be-d0-b3-d1-80-d0-b0-d0-bc-d0-bc-d0-b8-d1-81-d1-82",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-jobs-keyword-d0-98-d0-bd-d0-b6-d0-b5-d0-bd-d0-b5-d1-80-d1-82-d0-b5-d1-85-d0-bd-d0-be-d0-bb-d0-be-d0-b3",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-jobs-keyword-d0-92-d0-b0-d0-ba-d0-b0-d0-bd-d1-81-d0-b8-d1-8f",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-jobs-keyword-d0-a1-d1-82-d0-b0-d0-b6-d1-91-d1-80",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-register",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-category-d0-b1-d0-b5-d0-b7-d1-80-d1-83-d0-b1-d1-80-d0-b8-d0-ba-d0-b8",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-2026-10-06-d1-81-d1-82-d0-b0-d1-80-d1-82-d1-83-d0-b5-d1-82-3-d1-81-d0-b5-d0-b7-d0-be-d0-bd-d0-bf-d1-80-d0-be-d0-b3-d1-80-d0-b0-d0-bc-d0-bc-d1-8b-d0-b0-d0-bc-d0-b1-d0-b0-d1-81-d1-81-d0-b0-d0-b4-d0-be-d1-80",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-author-admin",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-2026-02-25-d0-b8-d1-82-d1-85-d0-be-d0-bb-d0-b4-d0-b8-d0-bd-d0-b3-d1-821-d0-bf-d1-80-d0-b8-d0-b3-d0-bb-d0-b0-d1-88-d0-b0-d0-b5-d1-82-d1-81-d1-82-d1-83-d0-b4-d0-b5-d0-bd-d1-82-d0-be-d0-b2-d1-82-d0-b5-d1-85",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-2026-02-15-d1-8f-d1-80-d0-bc-d0-b0-d1-80-d0-ba-d0-b0-d0-b2-d0-b0-d0-ba-d0-b0-d0-bd-d1-81-d0-b8-d0-b9-d0-b2-d0-be-d1-8d-d0-b7-d0-b4-d1-83-d0-b1-d0-bd-d0-b0-d0-bf-d1-80-d0-be-d0-b9-d0-b4-d0-b5",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-2026-01-29-d1-81-d1-82-d0-b0-d0-b6-d0-b8-d1-80-d0-be-d0-b2-d0-ba-d0-b0-d0-b2-d1-84-d0-b5-d0-b4-d0-b5-d1-80-d0-b0-d0-bb-d1-8c-d0-bd-d0-be-d0-bc-d0-b2-d0-b5-d0-b4-d0-be-d0-bc-d1-81-d1-82-d0-b2-d0-b5",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-2025-11-27-f0-9f-93-88-d0-bf-d0-b5-d1-80-d0-b5-d1-85-d0-be-d0-b4-d0-b8-d0-bd-d0-b0-d1-81-d0-bb-d0-b5-d0-b4-d1-83-d1-8e-d1-89-d0-b8-d0-b9-d1-83-d1-80-d0-be-d0-b2-d0-b5-d0-bd-d1-8c-d0-ba-d0-be-d0-bc-d0-bc",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-2025-11-26-e2-9a-a1-ef-b8-8f-d0-ba-d0-b0-d1-80-d1-8c-d0-b5-d1-80-d0-bd-d1-8b-d0-b9-d1-84-d0-be-d1-80-d1-83-d0-bc-d0-b2-d0-b7-d0-bb-d0-b5-d1-82",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-d0-bc-d0-b5-d1-80-d0-be-d0-bf-d1-80-d0-b8-d1-8f-d1-82-d0-b8-d1-8f",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-wp-content-uploads-digest-06-04-23-1-pdf",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-job-d0-bf-d1-80-d0-b5-d0-bf-d0-be-d0-b4-d0-b0-d0-b2-d0-b0-d1-82-d0-b5-d0-bb-d1-8c-d1-82-d0-b5-d1-85-d0-bd-d0-b8-d1-87-d0-b5-d1-81-d0-ba-d0-b8-d1-85-d0-b4-d0-b8-d1-81-d1-86-d0-b8-d0-bf-d0-bb-d0-b8-d0-bd",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-location-d0-bc-d0-be-d1-81-d0-ba-d0-b2-d0-b0",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-job-d1-81-d1-82-d0-b0-d0-b6-d0-b8-d1-80-d0-be-d0-b2-d0-ba-d0-b0-d0-b2-d0-be-d0-be-d0-be-d1-83-d0-bc-d0-bd-d1-8b-d0-b9-d0-b4-d0-be-d0-bc-d0-b5-d0-bc-d0-b5-d0-bb-d1-8f-d0-b4-d0-be-d1-81",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-jobs",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-d1-86-d0-b5-d0-bd-d1-82-d1-80-d0-ba-d0-b0-d1-80-d1-8c-d0-b5-d1-80-d1-8b-d0-bc-d0-b3-d1-82-d1-83-d0-b8-d0-bc-d0-bd-d1-8d-d0-b1-d0-b0-d1-83-d0-bc-d0-b0-d0-bd-d0-b0",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-finval",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-ctp-aero",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-ozon",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-tecon",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-mts",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-pulsar",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-almaz-antey",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-bazalt",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-yakovlev",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-d0-ba-d0-be-d1-80-d0-bf-d0-be-d1-80-d0-b0-d1-86-d0-b8-d1-8f-d1-82-d0-b0-d0-ba-d1-82-d0-b8-d1-87-d0-b5-d1-81-d0-ba-d0-be-d0-b5-d1-80-d0-b0-d0-ba-d0-b5-d1-82-d0-bd-d0-be-d0-b5-d0-b2-d0-be",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-location-d0-ba-d0-be-d1-80-d0-be-d0-bb-d0-b5-d0-b2",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-mit",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-gamma",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-pribor",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-roslesinforg",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-eleron",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-scma",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-tupolev",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-cagi",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-ciam",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-energia",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-il",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-nimi",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-niitp",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-npcap",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-tsenki",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-niip",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-location-d0-b6-d1-83-d0-ba-d0-be-d0-b2-d1-81-d0-ba-d0-b8-d0-b9",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-itoz",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-location-d1-82-d1-83-d0-bb-d0-b0",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-nami",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-rpkb",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-kmz",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-location-d0-ba-d1-80-d0-b0-d1-81-d0-bd-d0-be-d0-b3-d0-be-d1-80-d1-81-d0-ba",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-npkspp",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-kupol",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-gosniip",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-aviafarm",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-gorizont",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-zvezda",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-location-d0-bb-d1-8e-d0-b1-d0-b5-d1-80-d1-86-d1-8b",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-ofs",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-cnii4",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-granit",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-istok",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-location-d1-84-d1-80-d1-8f-d0-b7-d0-b8-d0-bd-d0-be",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-kemz",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-location-d0-ba-d0-b0-d0-bb-d1-83-d0-b3-d0-b0",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-nfmz",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-odk",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-rks",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-citis",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-fei",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-excellence-expert",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-cinimex",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-sovcombank",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-tek-kom",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-tehnekon",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-uzga",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-erstvak",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-schlumberger",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-systeme-electric",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-consultant",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-sputnix",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-d0-b3-d0-b1-d1-83-d0-bc-d0-be-d1-81-d1-82-d1-80-d0-b0-d0-bd-d1-81-d0-bf-d1-80-d0-be-d0-b5-d0-ba-d1-82",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-raymed",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-domrf",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-croc",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-amt",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-mkb",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-avito",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-cniihm",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-otp",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-vniia",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-vk",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-adl",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-stkengineering",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-tedo",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-nikiet",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-glowbyte",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-aerospace-systems",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-location-d0-b4-d1-83-d0-b1-d0-bd-d0-b0",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-ikarcenter",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-sber",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-antraks",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-bellerage",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-skolteh",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-nipigaz",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-alfa",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-aquastok",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-location-d0-ba-d1-80-d0-b0-d1-81-d0-bd-d0-be-d0-b4-d0-b0-d1-80",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-bank-russia",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-jet",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-vekprom",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-ecrt",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-westmedgroup",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-vtb",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-sravni",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-tehnogroup",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-kept",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-vulkan",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-nanocad",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-nik",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-rosatom",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-jti",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-unigreen-energy",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-agv",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-hevelsolar",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-intech-group",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-terralink",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-avalonelectrotech",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-jet-2",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-termocool",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-rostselmash",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-comitas",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-itelma",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-slt",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-omk",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-liaz-ru",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-fluid-line",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-avgroup",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-ozontech",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-mfmc",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-employer-d0-b3-d1-80-d1-83-d0-bf-d0-bf-d0-b0-d0-ba-d0-be-d0-bc-d0-bf-d0-b0-d0-bd-d0-b8-d0-b9-d0-b0-d0-ba",
+      "type": "LINKS_TO"
+    },
+    {
+      "source": "page:https-start-career-bmstu-ru",
+      "target": "url:https-start-career-bmstu-ru-lost-password",
+      "type": "LINKS_TO"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://library.bmstu.ru",
+      "error": "('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))"
+    }
+  ],
+  "stats": {
+    "sources": 10,
+    "parsed": 9,
+    "errors": 1,
+    "nodes": 158,
+    "edges": 149
+  }
+}
