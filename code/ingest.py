@@ -1,6 +1,7 @@
 import os
 import json
 import asyncio
+import time
 from bs4 import BeautifulSoup
 from langchain_community.document_loaders import PyMuPDFLoader, TextLoader
 from langchain_core.documents import Document
@@ -13,14 +14,13 @@ from crawl4ai import AsyncWebCrawler
 from crawl4ai.async_configs import BrowserConfig, CrawlerRunConfig
 from crawl4ai.content_filter_strategy import PruningContentFilter
 from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
-from crawl4ai.deep_crawling import BFSDeepCrawlStrategy
 
 # ==========================================
 # 1. НАСТРОЙКИ
 # ==========================================
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
-DOCS_DIR = "./documents"  # Папка с файлами
-URLS_FILE = os.path.join(CURRENT_DIR, "urls.txt") # Файл со ссылками
+DOCS_DIR = "./documents"
+URLS_FILE = os.path.join(CURRENT_DIR, "urls.txt")
 CHROMA_DB_DIR = "./chroma_db"
 COLLECTION_NAME = "my_docs"
 EMBEDDING_MODEL = "bge-m3"
@@ -30,16 +30,24 @@ EMBEDDING_MODEL = "bge-m3"
 # ==========================================
 
 def load_json_file(file_path):
-    """
-    Зачем нужна: Читает JSON файлы (базы данных, выгрузки API) и превращает их в текстовые документы.
-    Логика: Если это список объектов — создает отдельный документ для каждого. Если словарь — один общий.
-    """
+    """Читает JSON файлы (поддержка графа и обычных списков)"""
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
         
         docs = []
-        if isinstance(data, list):
+        if isinstance(data, dict) and "nodes" in data:
+            print(f"  [JSON] Формат графа. Узлов: {len(data['nodes'])}")
+            for node in data["nodes"]:
+                url = node.get("url", "")
+                text_content = node.get("text", "") or node.get("text_excerpt", "")
+                if not text_content.strip() or not node.get("crawled", False):
+                    continue
+                docs.append(Document(
+                    page_content=text_content,
+                    metadata={"source": url, "title": node.get("title", "")}
+                ))
+        elif isinstance(data, list):
             for i, item in enumerate(data):
                 content = json.dumps(item, ensure_ascii=False, indent=2)
                 docs.append(Document(page_content=content, metadata={"source": file_path, "item_index": i}))
@@ -48,65 +56,53 @@ def load_json_file(file_path):
             docs.append(Document(page_content=content, metadata={"source": file_path, "item_index": 0}))
         return docs
     except Exception as e:
-        print(f"  [Ошибка JSON] Не удалось прочитать {file_path}: {e}")
+        print(f"  [Ошибка JSON] {file_path}: {e}")
         return []
 
-async def crawl_urls_with_depth(urls, max_depth=1):
+async def crawl_urls_flat(urls):
     """
-    Зачем нужна: Это наш "паук". Она скачивает сайты, вытаскивает чистый текст и убирает меню/рекламу.
-    Логика: Использует BFSDeepCrawlStrategy для перехода по ссылкам (глубина 1 = главная + 1 уровень ссылок).
+    Скачивает ссылки по ОДНОЙ, чтобы не вешать процесс.
+    С жестким таймаутом на каждую страницу.
     """
+    if not urls:
+        return []
+
     all_docs = []
     
-    # Настройки браузера (headless = без открытия окна)
     browser_config = BrowserConfig(headless=True, verbose=False)
-    
-    # Очистка текста от мусора (меню, футеры, скрипты)
     content_filter = PruningContentFilter(threshold=0.48, threshold_type="fixed")
     md_generator = DefaultMarkdownGenerator(content_filter=content_filter)
     
-    # Конфигурация обхода: глубина, таймауты, стратегия
     run_config = CrawlerRunConfig(
         markdown_generator=md_generator,
-        deep_crawl_strategy=BFSDeepCrawlStrategy(
-            max_depth=max_depth,
-            include_external=False  # Не уходить на чужие сайты
-        ),
-        page_timeout=15000  # 15 секунд на загрузку одной страницы
+        page_timeout=15000 # 15 секунд на загрузку страницы в браузере
     )
 
+    print(f"  -> 🕸 Начинаем сканирование {len(urls)} ссылок (по одной)...")
+    
     async with AsyncWebCrawler(config=browser_config) as crawler:
         for url in urls:
-            print(f"  -> 🕸️ Сканируем сайт: {url} (глубина {max_depth})...")
+            print(f"     -> Читаем: {url}")
             try:
-                # Оборачиваем в wait_for: если за 120 секунд не уложился — убиваем процесс
+                # Оборачиваем в asyncio.wait_for: если 30 секунд нет ответа — убиваем
                 result = await asyncio.wait_for(
                     crawler.arun(url=url, config=run_config),
-                    timeout=120.0 
+                    timeout=10.0 
                 )
                 
-                # Обработка результатов: crawl4ai может вернуть список страниц (при глубоком обходе)
-                if isinstance(result, list):
-                    for page in result:
-                        if page.success and page.markdown.fit_markdown:
-                            all_docs.append(Document(
-                                page_content=page.markdown.fit_markdown,
-                                metadata={"source": page.url, "page": 1}
-                            ))
-                            print(f"     ✅ Прочитано: {page.url}")
-                elif result.success and result.markdown.fit_markdown:
+                if result.success and result.markdown.fit_markdown:
                     all_docs.append(Document(
                         page_content=result.markdown.fit_markdown,
-                        metadata={"source": url, "page": 1}
+                        metadata={"source": result.url, "page": 1}
                     ))
-                    print(f"     ✅ Прочитано: {url}")
+                    print(f"        ✅ Успешно ({len(result.markdown.fit_markdown)} символов)")
                 else:
-                    print(f"     ❌ Ошибка: {getattr(result, 'error_message', 'Нет данных')}")
+                    print(f"        ❌ Ошибка: {getattr(result, 'error_message', 'Нет данных')}")
                     
             except asyncio.TimeoutError:
-                print(f"     ⏰ Таймаут: Сайт {url} не ответил за 120 секунд. Пропускаем.")
+                print(f"        ⏰ Таймаут (30 сек). Пропускаем ссылку.")
             except Exception as e:
-                print(f"     ❌ Ошибка при обходе {url}: {e}")
+                print(f"        ❌ Критическая ошибка: {e}")
                 
     return all_docs
 
@@ -117,9 +113,7 @@ async def crawl_urls_with_depth(urls, max_depth=1):
 async def main():
     all_docs = []
 
-    # ==========================================
-    # 2. ЧТЕНИЕ ИЗ ПАПКИ (PDF/TXT/JSON)
-    # ==========================================
+    # 1. ЧТЕНИЕ ИЗ ПАПКИ (PDF/TXT/JSON)
     if os.path.exists(DOCS_DIR):
         print(f"⏳ Сканируем папку: {DOCS_DIR}...")
         for filename in os.listdir(DOCS_DIR):
@@ -134,45 +128,33 @@ async def main():
                     all_docs.extend(TextLoader(file_path, encoding="utf-8").load())
                 elif filename.lower().endswith(".json"):
                     all_docs.extend(load_json_file(file_path))
-                else:
-                    print(f"  [Пропуск] Неподдерживаемый формат: {filename}")
             except Exception as e:
                 print(f"  [Ошибка] {filename}: {e}")
-    else:
-         print(f"⚠️ Папка {DOCS_DIR} не найдена (пропускаем файлы).")
 
-    # ==========================================
-    # 3. ЧТЕНИЕ ИЗ URL (ссылки)
-    # ==========================================
+    # 2. ЧТЕНИЕ ИЗ URL (только плоский список)
     if os.path.exists(URLS_FILE):
-        print(f"⏳ Читаем ссылки из файла: {URLS_FILE}...")
+        print(f"⏳ Читаем ссылки из: {URLS_FILE}...")
         with open(URLS_FILE, "r", encoding="utf-8") as f:
             urls = [line.strip() for line in f if line.strip()]
             
         if urls:
-            url_docs = await crawl_urls_with_depth(urls, max_depth=1)
+            url_docs = await crawl_urls_flat(urls)
             all_docs.extend(url_docs)
-    else:
-        print(f"ℹ️ Файл {URLS_FILE} не найден (пропускаем ссылки).")
 
     if not all_docs:
-        print("❌ Не найдено ни одного источника (ни файлов, ни ссылок).")
+        print("❌ Не найдено источников.")
         return
 
-    print(f"✅ Всего загружено документов/страниц: {len(all_docs)}")
+    print(f"✅ Всего загружено документов: {len(all_docs)}")
 
-    # ==========================================
-    # 4. ЧАНКИНГ
-    # ==========================================
+    # 3. ЧАНКИНГ
     print("⏳ Режем на чанки...")
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=600, chunk_overlap=100)
     chunks = text_splitter.split_documents(all_docs)
     print(f"✅ Получено чанков: {len(chunks)}")
 
-    # ==========================================
-    # 5. СОХРАНЕНИЕ В CHROMADB (БАТЧАМИ)
-    # ==========================================
-    print(f"⏳ Векторизуем и сохраняем в ChromaDB (по 100 чанков)...")
+    # 4. СОХРАНЕНИЕ (УСКОРЕНО)
+    print(f"⏳ Векторизуем и сохраняем (батчами по 100)...")
     embeddings = OllamaEmbeddings(model=EMBEDDING_MODEL)
 
     vectorstore = Chroma(
@@ -181,14 +163,13 @@ async def main():
         collection_name=COLLECTION_NAME
     )
 
-    # Оптимизация: сохраняем по 100 чанков + пауза, чтобы Ollama не падала
-    import time 
+    # Сохраняем по 100 штук с небольшой паузой, чтобы Ollama не падала
     batch_size = 100
     for i in range(0, len(chunks), batch_size):
         batch = chunks[i:i + batch_size]
-        print(f"  -> Сохраняем чанки {i+1} - {min(i+batch_size, len(chunks))} из {len(chunks)}...")
+        print(f"  -> Сохраняем {i+1} - {min(i+batch_size, len(chunks))} из {len(chunks)}...")
         vectorstore.add_documents(batch)
-        time.sleep(1) # Пауза 1 секунда, чтобы Ollama "перевела дыхание"
+        time.sleep(0.5) # Уменьшили паузу с 1 сек до 0.5
 
     print(f"🎉 Готово! База обновлена.")
 
